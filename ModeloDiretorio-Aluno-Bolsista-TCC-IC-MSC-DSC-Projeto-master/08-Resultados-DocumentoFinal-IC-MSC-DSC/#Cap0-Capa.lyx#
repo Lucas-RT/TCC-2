@@ -1,0 +1,934 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass abnt
+\options normaltoc, sumarioincompleto
+\use_default_options false
+\maintain_unincluded_children false
+\language brazilian
+\language_package default
+\inputencoding iso8859-1
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref true
+\pdf_title "Título da Monografia - Dissertação - Tese"
+\pdf_author "Nome do Autor"
+\pdf_subject "Descrever assunto"
+\pdf_keywords "Copiar do resumo"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref page
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Índice
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 210mm
+\paperheight 297mm
+\leftmargin 30mm
+\topmargin 25mm
+\rightmargin 20mm
+\bottommargin 20mm
+\secnumdepth 2
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle headings
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Capa
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+AVALIAÇÃO DO GRAU DE INTEMPERISMO DE AMOSTRAS DE PETRÓLEO DE UM DERRAME
+ REAL OCORRIDO NA BACIA DE CAMPOS E SUA CORRELAÇÃO COM AS CONDIÇÕES METEOROLÓGIC
+AS OBSERVADAS NO PERÍODO DO ACIDENTE 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+O título deve ser o mais claro possível, não deixando dúvidas sobre o assunto
+ em questão.
+ O uso de vírgula ou dois pontos pode deixar o título com mais impacto.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Diminuí todos os espaços em DOIS CENTÍMETROS!!!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 4cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+LUCAS RODRIGUES TAVARES
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE
+\begin_inset Newline newline
+\end_inset
+
+LABORATÓRIO DE ENGENHARIA E EXPLORAÇÃO DE PETRÓLEO
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 6cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+MACAÉ - RJ
+\begin_inset Newline newline
+\end_inset
+
+DEZEMBRO - 2023
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+AVALIAÇÃO DO GRAU DE INTEMPERISMO DE AMOSTRAS DE PETRÓLEO DE UM DERRAME
+ REAL OCORRIDO NA BACIA DE CAMPOS E SUA CORRELAÇÃO COM AS CONDIÇÕES METEOROLÓGIC
+AS OBSERVADAS NO PERÍODO DO ACIDENTE
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+LUCAS RODRIGUES TAVARES
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 3cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50text%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align block
+Monografia apresentada ao Centro de Ciências e Tecnologia da Universidade
+ Estadual do Norte Fluminense, como parte das exigências para obtenção do
+ título de Engenheiro de Exploração e Produção de Petróleo.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+manter esta linha apenas nas monografias
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 3cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Orientador: Prof.
+ Eliane Soares de Souza, D.Sc.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+MACAÉ - RJ
+\begin_inset Newline newline
+\end_inset
+
+DEZEMBRO - 2023
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+AVALIAÇÃO DO GRAU DE INTEMPERISMO DE AMOSTRAS DE PETRÓLEO DE UM DERRAME
+ REAL OCORRIDO NA BACIA DE CAMPOS E SUA CORRELAÇÃO COM AS CONDIÇÕES METEOROLÓGIC
+AS OBSERVADAS NO PERÍODO DO ACIDENTE
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size large
+LUCAS RODRIGUES TAVARES
+\size default
+
+\begin_inset VSpace 1.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "50text%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\align block
+Monografia apresentada ao Centro de Ciências e Tecnologia da Universidade
+ Estadual do Norte Fluminense, como parte das exigências para obtenção do
+ título de Engenheiro de Exploração e Produção de Petróleo.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+manter esta linha apenas nas monografias
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 2cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align left
+Aprovada em xx de xxxxxx de 20xx.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Comissão Examinadora:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{-1.25
+\backslash
+baselineskip}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\noindent
+\align left
+Prof.ª Georgiana Feitosa da Cruz (D.Sc, Geoquímica do Petróleo) - LENEP/UENF
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{-1.25
+\backslash
+baselineskip}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\noindent
+\align left
+Prof.ª Eliane Barbosa Santos (D.Sc, Meteorologia) - LAMET/UENF
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{-1.25
+\backslash
+baselineskip}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\noindent
+\align left
+Prof.
+ Nivaldo Silveira Ferreira (D.Sc, Modelagem Numérica) - LAMET/UENF
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+vspace{-1.25
+\backslash
+baselineskip}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align left
+Prof.ª Eliane Soares de Souza (D.Sc, Geoquímica do Petróleo) - LENEP/UENF
+ - (Orientador)
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{Dedicatória}
+\end_layout
+
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 21.5cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+dedicação
+\end_layout
+
+\end_inset
+
+Dedico esta monografia aos meus pais, que sempre fizeram de tudo por mim.
+ Meus maiores orientadores da vida.
+ 
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align block
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{Agradecimentos}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align block
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Agradecimentos
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing onehalf
+Inicialmente, gostaria de agradecer à minha mãe, Jarilane Maia Rodrigues
+ Tavares, por seu amor incondicional, paciência, apoio e motivação durante
+ toda a jornada acadêmica e ao meu pai, Salvador Tavares, por ser meu exemplo
+ ao mostrar que mesmo alguém que nasceu com tão pouco, é capaz de conquistar
+ o que quiser se tiver dignidade e perseverança.
+ 
+\end_layout
+
+\begin_layout Standard
+Á minha amiga Carolina Bastos e ao meu amigo Douglas Ribeiro, com quem dividi
+ não só a sala de aula mas também o convívio, compartilhando as dificuldades
+ e as vitórias, do âmbito acadêmico e da vida, tornando esses anos muito
+ mais leves e divertidos.
+ Pelo companheirismo, amizade, grupos de estudos para as provas, por todas
+ as conversas que nos fizeram evoluir como pessoas e estudantes e por estarem
+ presente nas horas boas e ruins durante a graduação.
+\end_layout
+
+\begin_layout Standard
+Aos meus amigos de infância, Gabriel Maia, Igor Falcão e Júlio Ornelas,
+ por esterem sempre comigo há mais de 15 anos, por acreditarem em mim, me
+ divertirem e servirem de apoio em todos os momentos de dúvida, angústia
+ e tristeza, principalmente nessa reta final da monografia.
+\end_layout
+
+\begin_layout Standard
+Aos meus amigos do LENEP, Daniel Alvarenga, David Dias, Gustavo Escher,
+ Itassu Porto, Kevin Bartelega, Leonam Braga, Letícia Sakai e Nicholas Almeida
+ por todas as experiências trocadas, ensinamentos, parceria e principalmente,
+ ajuda ao longo do curso.
+\end_layout
+
+\begin_layout Standard
+Ao Laboratório de Engenharia de Exploração e Produção de Petróleo (LENEP),
+ e em especial ao Laboratório de Geoquímica, por todo apoio técnico e estrutural
+ que foi fundamental para a realização dos experimentos e análises necessárias
+ para este estudo.
+ Em especial, à Prof.ª Georgiana Feitosa, D.Sc e ao Laércio Martins, D.Sc por
+ todo suporte, torcida e paciência todas as vezes que estive no laboratório.
+\end_layout
+
+\begin_layout Standard
+Ao meu coorientador Prof.
+ Nivaldo Silveira Ferreira, D.Sc, pela orientação nesse trabalho e por todos
+ os ensinamentos e experiências doadas a mim ao longo das outras matérias
+ as quais tive o previlégio de ser seu aluno.
+\end_layout
+
+\begin_layout Standard
+À minha orientadora, Prof.ª Eliane Soares de Souza, D.Sc, por toda orientação,
+ conhecimento, paciência e dedicação que foram essenciais para o desenvolvimento
+ deste estudo.
+ Agradeço também por seu apoio contínuo, pelo tratamento cuidadoso e pelos
+ ensinamentos valiosos que me guiaram e que foram fundamentais para o sucesso
+ desta pesquisa e para a minha jornada acadêmica.
+ E por fim, agradecer pela oportunidade de ter sido orientado por você na
+ iniciação científica e posteriormente, na monografia.
+\end_layout
+
+\begin_layout Standard
+A todos os professores do curso de Engenharia de Petróleo, por todos os
+ ensinamentos que me capacitaram téenicamente e contribuíram para me tornar
+ o profissional que sou hoje.
+ 
+\end_layout
+
+\begin_layout Standard
+Ao PIBIC UENF pela oportunidade de contribuir no projeto e bolsa de estudos.
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing double
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing double
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing double
+(obrigatório para bolsistas prh20-anp/ctpetro) -
+\end_layout
+
+\end_inset
+
+Ao comitê gestor do PRH20-ANP-CTPETRO/LENEP/CCT/UENF, a Agência Nacional
+ do Petróleo, Gás Natural e Biocombustíveis – ANP, a Financiadora de Estudos
+ e Projetos – FINEP e ao Ministério da Ciência e Tecnologia – MCT pelo fornecime
+nto de bolsa de estudos e taxa de bancada por meio do Programa de Recursos
+ Humanos da ANP para o Setor Petróleo e Gás – PRH-ANP/MCT.
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(obrigatório para bolsistas prh20-anp/petrobras) -
+\end_layout
+
+\end_inset
+
+Ao comitê gestor do PRH20-ANP-PETROBRAS/LENEP/CCT/UENF, e a Universidade
+ Petrobras pelo fornecimento de bolsa de estudos e taxa de bancada por meio
+ do PFRH-PETROBRAS, Programa de Formação de Recursos Humanos da Petrobras.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{Epígrafe}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 22cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+"Repetition is the father of learning" 
+\end_layout
+
+\begin_layout Standard
+\align right
+
+\emph on
+(Lil Wayne)
+\end_layout
+
+\end_body
+\end_document

@@ -1,0 +1,1863 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass abntex2
+\use_default_options true
+\maintain_unincluded_children false
+\language brazilian
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Revisão Bibliográfica
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Revisão Bibliográfica
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:Revisão-Bibliográfica"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{
+\backslash
+thechapter
+\backslash
+space - Revisão Bibliográfica} 
+\backslash
+rhead{} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+No escopo do problema, apresentou-se uma breve revisão dos trabalhos relacionado
+s a tese; Apresenta-se neste capítulo uma revisão bibliográfica detalhada
+ dos trabalhos, técnicos e científicos, que estão diretamente relacionados
+ ao trabalho.
+\end_layout
+
+\begin_layout Itemize
+Ou seja, entram citações de trabalhos tecnológicos e científicos desenvolvidos
+ por terceiros - os outros.
+ Principalmente artigos científicos.
+ 
+\end_layout
+
+\begin_layout Itemize
+É comum a gente ampliar ou melhorar uma metodologia existente, neste caso,
+ a metodologia existente precisa ser detalhada.
+ Faça aqui uma citação e descrição da metodologia existente; As melhorias/amplia
+ções que você fizer, devem entrar no capítulo de desenvolvimento.
+ Separando o que os outros fizeram do que você fez.
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Vou repetir;
+\end_layout
+
+\begin_layout Itemize
+Não faça um capítulo de revisão conceitual, em que repete conceitos amplamente
+ conhecidos, que estão nos livros, e ninguém tem paciência para ler!!
+\end_layout
+
+\begin_layout Itemize
+Vá direto ao ponto, colocando aqui os trabalhos científicos/técnicos que
+ estão diretamente relacionados ao seu tema.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Lembre-se, cada capítulo deve iniciar com uma breve descrição do que vai
+ ser visto.
+ A ideia é ajudar o leitor a se situar.
+ Você deve copiar a breve descrição para seção 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Organizacao-do-Documento"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+A organização deste capítulo precisa ser exatamente como colocado abaixo,
+ mas você pode renomear os títulos das seções, usando um título mais adequado
+ ao seu trabalho.
+ O fundamental é não esquecer de citar alguns trabalhos tecnológicos, vários
+ trabalhos científicos e de fazer uma crítica ao que existe, justificando
+ seu trabalho.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Composição Química do Petróleo
+\end_layout
+
+\begin_layout Standard
+O petróleo é uma mistura complexa de compostos, principalmente hidrocarbonetos,
+ que existe naturalmente nas formas gasosa, líquida e sólida.
+ Compostos exclusivamente constituídos por carbono e hidrogênio são chamados
+ de hidrocarbonetos.
+ Os hidrocarbonetos presentes no petróleo podem ser divididos em três grupos:
+ parafinas (compostos saturados com cadeias lineares ou ramificadas), naftenos
+ (compostos saturados com cadeias cíclicas, também chamados de cicloalcanos)
+ e aromáticos (compostos possuindo um ou mais anéis benzênicos) (SPEIGHT,
+ 2007; CHAUDHURI, 2011).
+ No petróleo, existem ainda, moléculas complexas derivadas de biomoléculas
+ pertencentes aos organismos que viviam no paleoambiente deposicional da
+ rocha geradora de petróleo.
+ Esses compostos são chamados de marcadores biológicos ou biomarcadores,
+ por conservarem o esqueleto carbônico de seus precursores biogênicos, como
+ plantas terrestres, algas e bactérias, refletindo a origem biológica de
+ cada óleo (TISSOT; WELTE, 1984; PETERS et al., 2005; WANG; STOUT, 2007).
+ 
+\end_layout
+
+\begin_layout Standard
+Além dos hidrocarbonetos, ainda existe no petróleo a classe dos compostos
+ polares, que possuem átomos de enxofre, nitrogênio e oxigênio.
+ Na indústria do petróleo, os compostos polares com peso molecular mais
+ baixo são conhecidos como resinas e aqueles com peso molecular mais elevados
+ são chamados de asfaltenos (NRC, 2003)
+\end_layout
+
+\begin_layout Subsection
+Parafinas
+\end_layout
+
+\begin_layout Standard
+Parafinas são hidrocarbonetos saturados, ou seja, possuem somente ligações
+ simples entre os átomos de carbono.
+ Elas formam uma série homóloga com fórmula molecular CnH2n+2, onde n é
+ o número de átomos de carbono presentes no composto, e são também conhecidas
+ como alcanos (HUNT, 1996; SOLOMONS; FRYHLE, 2004).
+ Elas podem possuir cadeias normais ou ramificadas, como pode ser observado
+ na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Exemplo-de-parafinas"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/parafinas.jpg
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Exemplo de parafinas normais e ramificadas
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Exemplo-de-parafinas"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Entre as moléculas de iso-parafinas, existe uma série de compostos muito
+ importantes no estudo da geração do petróleo, que são os chamados isoprenóides.
+ Eles normalmente compõem apenas 1% do óleo cru.
+ Dentre os isoprenóides, os mais utilizados nos estudos geoquímicos são
+ o pristano (tetrametilpentadecano 
+\begin_inset Formula $C_{19}$
+\end_inset
+
+) e o fitano (tetrametilhexadecano 
+\begin_inset Formula $C_{20}$
+\end_inset
+
+) (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Estrutura-molecular-do-1"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+), que somados representam 55% dos isoprenóides presentes no petróleo (TISSOT;
+ WELTE, 1984).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/pristanofitano.jpg
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Estrutura molecular dos isoprenóides pristano e fitano
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Estrutura-molecular-do-1"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A análise da distribuição dos alcanos em óleos derramados auxilia na identificaç
+ão da origem do derrame e possibilita o monitoramento geoquímico das mudanças
+ composicionais do óleo, geradas pelos processos de intemperismo, que serão
+ discutidos posteriormente (WANG; STOUT, 2007).
+\end_layout
+
+\begin_layout Subsection
+Cicloalcanos
+\end_layout
+
+\begin_layout Standard
+Cicloalcanos, também conhecidos como naftenos ou cicloparafinas, são hidrocarbon
+etos saturados nos quais todos ou alguns átomos de carbono estão arranjados
+ em um anel, e possuem como fórmula molecular geral CnH2n (SOLOMONS; FRYHLE,
+ 2004).
+ Os compostos mais comuns desta classe no petróleo contém cinco ou seis
+ átomos de carbono, o metilciclopentano e o metilciclohexano (TISSOT; WELTE,
+ 1984; HUNT, 1996).
+ Os policicloalcanos são um grupo muito importante de compostos, pois contem
+ vários biomarcadores do petróleo, como os das famílias dos hopanos e dos
+ esteranos, e são amplamente utilizados na caracterização de óleos, estando
+ representados na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Estrutura-molecular-do"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ (PETERS et al., 2005).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/cicloalcanos.jpg
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Estrutura molecular do 
+\begin_inset Formula $C_{30}$
+\end_inset
+
+ hopano e colestano
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Estrutura-molecular-do"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Os hopanos são pentacíclicos comumente contendo de 27 a 35 átomos de carbono
+ em uma estrutura composta por quatro anéis contendo seis carbonos e um
+ anel contendo cinco carbonos, originados de percursores existentes nas
+ membranas de bactérias.
+ Já os esteranos são uma classe de biomarcadores saturados tetracíclicos,
+ originados dos esteróis presentes nos organismos eucariontes que participaram
+ da composição da matéria orgânica depositada durante a formação da rocha
+ geradora de petróleo (PETERS et al., 2007).
+\end_layout
+
+\begin_layout Subsection
+Aromáticos
+\end_layout
+
+\begin_layout Standard
+Hidrocarbonetos aromáticos têm um ou mais anéis benzênicos.
+ O benzeno é o hidrocarboneto aromático mais simples, possuindo como fórmula
+ molecular 
+\begin_inset Formula $C_{6}H_{6}$
+\end_inset
+
+ (SOLOMONS; FRYHLE, 2004; PETERS et al., 2005).
+ Os monoaromáticos possuem apenas um anel benzênico, sendo os mais encontrados
+ no petróleo chamados coletivamente de BTEX (benzeno, tolueno, etilbenzeno
+ e xileno), parcialmente solúveis em água e facilmente volatilizados a temperatu
+ra ambiente.
+ Já os hidrocarbonetos aromáticos possuindo dois ou mais anéis benzênicos
+ condensados são chamados de HPA (hidrocarbonetos policíclicos aromáticos),
+ como o naftaleno e o antraceno, apresentados na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Estrutura-molecular-dos-1"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ (PETERS et al., 2005; WANG; STOUT, 2007).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/aromáticos.jpg
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Estrutura molecular dos compostos aromáticos naftaleno e antraceno
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Estrutura-molecular-dos-1"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Os hidrocarbonetos policíclicos aromáticos são resistentes aos processos
+ de degradação, tornando assim os HPAs uma das classes mais importantes
+ na identificação de óleos derramados no meio ambiente (WANG et al., 2013).
+\end_layout
+
+\begin_layout Subsection
+Compostos Polares
+\end_layout
+
+\begin_layout Standard
+Os compostos polares presentes no petróleo são aqueles que possuem átomos
+ de nitrogênio, enxofre ou oxigênio em suas composições, sendo comumente
+ chamados de compostos NSO (HUNT, 1996).
+ Na indústria do petróleo, os compostos polares com menores pesos moleculares
+ são chamados resinas.
+ Já os compostos polares com maior peso molecular são os chamados asfaltenos.
+ Esses compostos normalmente encontram- se em baixas concentrações em óleos
+ não degradados, no entanto encontram-se em maiores concentrações em óleos
+ degradados, resultantes da ação dos processos de intemperismo, pois são
+ mais resistentes, persistindo no meio ambiente (WANG et al., 2006).
+ 
+\end_layout
+
+\begin_layout Section
+Utilização de biomarcadores na avaliação do nível de degradação de um óleo
+ derramado
+\end_layout
+
+\begin_layout Standard
+A análise dos biomarcadores é uma poderosa ferramenta geoquímica na identificaçã
+o de óleos derramados pois estes compostos são altamente resistentes aos
+ processos intempéricos, preservando assim a composição química única de
+ cada óleo (PETERS et al., 2005).
+ As concentrações dos diferentes tipos de biomarcadores em óleos crus variam
+ amplamente dependendo do ambiente deposicional da rocha geradora, da maturação
+ e de processos de alteração secundária em reservatório (HUNT, 1996).
+ A análise de biomarcadores tem sido amplamente aplicada na caracterização
+ de tarballs, através da diferenciação de fontes poluidoras naturais ou
+ antrópicas, assim como na discriminação das várias possíveis fontes de
+ contaminação (NRC, 2003).
+ 
+\end_layout
+
+\begin_layout Standard
+Para realizar as correlações entre os óleos derramados e suas possíveis
+ fontes, normalmente utilizam-se razões diagnósticas, que normalmente são
+ calculadas a partir de da concentração dos compostos ou da altura ou área
+ dos picos obtidas na cromatografia gasosa acoplada à espectrometria de
+ massas dos compostos biomarcadores (WANG; STOUT, 2007).
+ Uma grande variedade de biomarcadores é utilizada na caracterização e na
+ avaliação do grau de intemperismo de óleos derramados, incluindo terpanos
+ tricíclicos, tetracíclicos e pentacíclicos (como o gamacerano) (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Exemplos-de-compostos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+) e esteranos.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/terpanotriciclico.jpg
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Exemplos de compostos biomarcadores saturados
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Exemplos-de-compostos"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+O padrão de distribuição desses compostos, em geral, difere de óleo para
+ óleo, fazendo com que seja possível fazer uma distinção entre os vários
+ tipos de petróleo (HUNT, 1996; WANG; FINGAS, 2003).
+ Os biomarcadores cíclicos são mais resistentes à degradação do que os n-alcanos
+, tornando-os ideais para a identificação da origem e do grau de intemperismo
+ sofrido por óleos derramados, sendo os hopanos (terpanos pentacíclicos)
+ e os esteranos os compostos mais utilizados.
+ Para isso são utilizadas razões diagnósticas entre biomarcadores mais ou
+ menos suscetíveis ao intemperismo, tais como, Terpano tricíclico 
+\begin_inset Formula $C_{21}$
+\end_inset
+
+ (
+\begin_inset Formula $Tr_{21}$
+\end_inset
+
+)/Terpano tricíclico 
+\begin_inset Formula $C_{23}$
+\end_inset
+
+ (
+\begin_inset Formula $Tr_{23}$
+\end_inset
+
+), Terpano tricíclico 
+\begin_inset Formula $C_{20}$
+\end_inset
+
+ (
+\begin_inset Formula $Tr_{20}$
+\end_inset
+
+)/Terpano tricíclico
+\begin_inset Formula $C_{23}$
+\end_inset
+
+ (
+\begin_inset Formula $Tr_{23}$
+\end_inset
+
+), 
+\begin_inset Formula $C_{30}$
+\end_inset
+
+ hopano/ 
+\begin_inset Formula $C_{27}ααα$
+\end_inset
+
+ (S+R) e %
+\begin_inset Formula $C_{29}$
+\end_inset
+
+ (
+\begin_inset Formula $αββ+ααα$
+\end_inset
+
+) (R+S) esteranos.
+ Razões diagnósticas entre biomarcadores aromáticos e compostos polares,
+ tais como: metilfenantrenos, metildibenzotiofenos, esteranos monoaromáticos
+ e esteranos triaromáticos (Fig.
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Exemplos-de-compostos-1"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+) também podem fornecer informações sobre o grau de intemperismo de um óleo
+ (WANG; FINGAS, 2003; PETERS et al., 2005).
+ Seguem algumas razões comumente utilizadas nos estudos de óleos derramados:
+ (2+3)/4 Metildibenzotiofenos, 1/4 Metildibenzotiofenos, (3+2)/(4+9+1) Metilfena
+ntrenos e 
+\begin_inset Formula $C_{26}$
+\end_inset
+
+TA(20S)/
+\begin_inset Formula $C_{28}$
+\end_inset
+
+TA(20R) (PETERS et al., 2005; WANG; STOUT, 2007).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/biomarcadoresaro.jpg
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Exemplos de compostos biomarcadores aromáticos e polares
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Exemplos-de-compostos-1"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Descrição do problema operacional que causou o derrame de petróleo
+\end_layout
+
+\begin_layout Standard
+Segundo o Relatório de Investigação de Incidente da ANP/SSM/IBAMA, entre
+ os dias 24/03/2019 e 25/03/2019 ocorreu um derrame de petróleo proveniente
+ da plataforma P-53 no campo de Marlim Leste, Bacia de Campos.
+ Estima-se que tenha vazado um volume de 122 m³ de óleo de grau API 22,8,
+ classificado como médio a pesado.
+ O óleo ficou suspenso na coluna d’água, mas não flutuante, dificultando
+ o acompanhamento do derrame por satélites ou por radar e, consequentemente,
+ levando à ineficácia das ações de dispersão e remoção do óleo derramado
+ (ANP, 2020).
+ Ainda segundo o Relatório de Investigação de Incidente, os fatos causais
+ apresentados foram:
+\end_layout
+
+\begin_layout Enumerate
+Falha no controle de nível na medição de interface do separador de emulsão
+ óleo/água: 
+\end_layout
+
+\begin_deeper
+\begin_layout Quotation
+
+\emph on
+“Plataformas do tipo FPU (Floating and Production Unit) como a P-53, são
+ instalações que não contam com a possibilidade de armazenamento em tanques
+ de água, portanto os equipamentos responsáveis pela quebra da emulsão óleo/água
+ e tratamento da água produzida dessas unidades devem apresentar boa performance
+ operacional e estarem submetidos a monitoramento rigoroso.
+ Adicionalmente existia causa sistêmica para a falta de manutenção dos medidores
+ de interface dos separadores: o relatório menciona que os medidores estavam
+ sem manutenção desde 2014, mas não se aprofunda nas causas sistêmicas deste
+ fato.
+ Houve um plano de redução do quantitativo de pessoal a bordo em 2013.
+ Como parte desse plano, algumas manutenções preventivas foram substituídas
+ por verificações a serem realizadas pela equipe de Operação, como parte
+ de rotina operacional, sem um plano de manutenção periódica associado.”
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Falha no monitoramento da qualidade da água descartada: 
+\end_layout
+
+\begin_layout Quotation
+
+\emph on
+“A causa raiz apresentada pela operadora para a falha no monitoramento da
+ qualidade da água produzida descartada concentra-se no procedimento.
+ O relatório da comissão de investigação da Petrobras não evidencia que
+ tenham sido analisados os seguintes aspectos relacionados à medição de
+ TOG (teor de óleos e graxas) : tipo de analisador, sua tecnologia, calibração
+ (manutenção), faixa de medição, local de tomada da amostra e periféricos
+ da instalação deste sistema.
+ Ainda que a investigação não apresente causa raiz relacionada ao HAZOP
+ para o fator causal "descarte de água com alto teor de óleo pelo sistema
+ de água produzida", é evidente que no evento em tela, houve falha no elemento
+ apontado no estudo de HAZOP como modo de detecção/salvaguarda como responsável
+ pelo "monitoramento da qualidade da água dada pelas análises de TOG online.”
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\emph on
+Colocar referência
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Fator causal adicional: Degradação do sistema de água produzida
+\emph on
+: “De forma complementar, um fato relevante evidenciado no curso da investigação
+ foi o estado de degradação em alguns equipamentos do sistema de água produzida.
+ Em relação à integridade do sistema de tratamento de água de P-53, foi
+ notável que havia má disponibilização e planejamento de recursos necessários
+ para o sistema de tratamento de água, evidenciados pelo grau significante
+ de degradação e indisponibilidade de equipamentos, não se tratando apenas
+ de falha no controle de nível do separador.
+ Foi constatado nas duas últimas auditorias realizadas pela ANP que havia
+ um backlog de manutenção incompatível com a disponibilidade de pessoas
+ a bordo da plataforma, demonstrando que não havia recursos disponíveis
+ para garantir que os serviços de manutenção fossem realizados.
+ A indisponibilidade de equipamentos tinha como consequências: (i) necessidade
+ de maior atenção dos operadores no controle manual da operação; (ii) falta
+ de informação (ausência de medidores de vazão e falta de confiabilidade
+ de medidor online de TOG); (iii) redução da capacidade de separação de
+ óleo da água (falha nas placas elétricas do tratador, inoperância de hidrociclo
+ne e flotador); (iv) alinhamentos operacionais de acordo com o grau API
+ do óleo do poço.” 
+\end_layout
+
+\begin_layout Section
+Processos de intemperismo sobre o petróleo derramado no mar
+\end_layout
+
+\begin_layout Standard
+Logo após ser derramado no mar, o petróleo sofre uma série de mudanças em
+ suas propriedades físicas e químicas, que juntas, são chamadas de intemperismo.
+ Os processos de intemperismo ocorrem em taxas variadas, mas começam imediatamen
+te após o óleo ser lançado no ambiente.
+ As taxas de intemperismo não são constantes, e normalmente, são mais altas
+ logo após o derrame (NRC, 2003).
+ 
+\end_layout
+
+\begin_layout Standard
+Os principais processos de intemperismo são: espalhamento, evaporação, emulsific
+ação, dispersão natural, dissolução, degradação microbiana e foto-oxidação,
+ estando representados na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Processos-de-intemperismo"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ Cada um desses processos afeta os hidrocarbonetos diferentemente, dependendo
+ da natureza física e química do óleo e das condições ambientais, tais como
+ velocidade e direção dos ventos e das correntes marinhas, temperatura do
+ ar e da superfície da água do mar, salinidade e biota (WANG; STOUT, 2007).
+ Os processos de espalhamento, evaporação, dispersão, emulsificação e dissolução
+ são os mais importantes durante as fases iniciais de um derrame, enquanto
+ a oxidação, sedimentação e biodegradação são mais importantes nos estágios
+ mais avançados, determinando o destino final do óleo (ITOPF, 2014).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/intemperismo.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Processos de intemperismo que afetam o óleo derramado no mar (Modificado
+ de ITOPF, 2014)
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Processos-de-intemperismo"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Como resultado da atuação desses diversos processos o óleo derramado pode,
+ eventualmente, se transformar em resíduos chamados tarballs.
+ Eles são muito persistentes no ambiente marinho e podem viajar centenas
+ de quilômetros, sendo levadas muitas vezes para zonas distantes da origem
+ do derramamento, dificultando a identificação da sua fonte poluidora (NRC,
+ 2003).
+\end_layout
+
+\begin_layout Subsection
+Espalhamento
+\end_layout
+
+\begin_layout Standard
+Assim que o óleo é derramado, ele começa a espalhar-se sobre a superfície
+ do mar, processo que é facilitado pela tensão superficial existente entre
+ a superfície da água e o óleo, que possui característica hidrofóbica.
+ A velocidade com a qual este processo ocorre depende, principalmente, da
+ viscosidade do óleo, sendo que óleos de baixa viscosidade espalham-se mais
+ rapidamente do que aqueles com viscosidade elevada.
+ Derrames de óleos leves espalham-se numa taxa de 100-300 m/h.
+ A direção e a força do vento, das ondas e da corrente oceânica, e a temperatura
+ também afetam a taxa e direção do espalhamento.
+ Manchas de óleo normalmente deslocam-se na mesma direção do vento, formando
+ faixas estreitas, e raramente apresentam uma espessura uniforme (PATIN,
+ 1999; PETERS et al., 2005; ITOPF, 2014).
+\end_layout
+
+\begin_layout Subsection
+Evaporação
+\end_layout
+
+\begin_layout Standard
+No curto período de tempo após o derramamento, a evaporação é o processo
+ de intemperismo mais importante e o dominante sobre o óleo derramado, principal
+mente em ambientes de clima mais quente.
+ A evaporação ocorre quando os componentes mais voláteis do óleo vaporizam-se
+ e deixam a superfície da água.
+ Este processo deixa os componentes mais pesados do óleo na água, que podem
+ ser submetidos aos outros processos intempéricos ou então serem depositados
+ no assoalho oceânico (EPA, 1999).
+ 
+\end_layout
+
+\begin_layout Standard
+Em poucos dias após o derrame, óleos leves podem perder até 75% de seu volume
+ inicial e petróleos com peso intermediário podem perder até 40%.
+ Em contraste, óleos pesados irão perder não mais que 10% de seu volume
+ nos primeiros dias seguintes ao derrame (NRC, 2003; WANG; STOUT, 2007).
+ Portanto, a taxa na qual o óleo irá evaporar depende essencialmente de
+ sua composição.
+ Quanto mais componentes voláteis possuir, maior é a extensão e a taxa de
+ evaporação.
+ A extensão da evaporação é normalmente o fator mais importante para a determina
+ção das propriedades de um óleo num certo tempo após o derramamento, e para
+ alterar o comportamento do óleo (WANG; STOUT, 2007).
+ 
+\end_layout
+
+\begin_layout Standard
+A maior dificuldade em avaliar a evaporação do óleo está no fato de que
+ ele é uma mistura de centenas de compostos, e esta mistura varia em função
+ de sua origem e ao longo do tempo do derrame (NRC, 2003).
+ A evaporação pode aumentar à medida que o óleo se espalha, devido ao aumento
+ da área superficial da mancha.
+ Mares agitados, ventos com velocidades elevadas e temperaturas elevadas
+ também tendem a aumentar a taxa de evaporação e a proporção de perda de
+ massa de óleo por este processo (ITOPF, 2014).
+ 
+\end_layout
+
+\begin_layout Subsection
+Emulsificação
+\end_layout
+
+\begin_layout Standard
+Emulsificação é o processo pelo qual pequenas gotas de água ficam suspensas
+ no óleo, através da mistura física promovida pela turbulência causada pelas
+ ondas na superfície do mar (WANG; STOUT, 2007; ITOPF, 2014).
+ As emulsões mudam significativamente as propriedades e características
+ do óleo derramado.
+ Como exemplo, a viscosidade do óleo normalmente aumenta, podendo fazer
+ com que um petróleo líquido torne-se um material semi-sólido (NRC, 2003;
+ ITOPF, 2014).
+ Emulsões contém cerca de 70% de água, fazendo com que o volume original
+ do óleo derramado aumente entre três a quatro vezes.
+ Emulsões de água em óleo podem persistir no ambiente marinho por meses
+ ou até anos.
+ Elas são formadas quando a ação de fortes ondas faz com que a água fique
+ presa dentro do óleo e dificultam vários processos destrutivos que dissipam
+ o óleo, como a evaporação, o espalhamento, a degradação microbiana e a
+ dissolução dos componentes solúveis do óleo (EPA, 1999; ITOPF, 2014).
+\end_layout
+
+\begin_layout Subsection
+Dispersão natural
+\end_layout
+
+\begin_layout Standard
+A dispersão natural ocorre quando manchas de óleo desagregam-se em pequenas
+ gotas e são transferidas para a coluna de água pela ação das ondas ou da
+ turbulência.
+ Pequenas gotas (<20 
+\begin_inset Formula $μ$
+\end_inset
+
+m) são relativamente estáveis na água e então permanecem nela por longos
+ períodos de tempo.
+ Grandes gotas tendem a subir e gotas ainda maiores (>100 
+\begin_inset Formula $μ$
+\end_inset
+
+m) não permanecem na coluna de água por mais de alguns segundos.
+ A dispersão natural é dependente tanto do tipo do óleo quanto das condições
+ do oceano (como a ação das ondas).
+ Óleos pesados não se dispersam naturalmente em extensões significativas,
+ enquanto óleos leves podem sofrer uma dispersão significativa.
+ Gotas dispersas podem locomover-se para longe do derramamento e podem coalescer
+, formando uma nova mancha.
+ Como o óleo disperso possui uma maior área superficial exposta à água,
+ a biodegradação e a dissolução alteram esse óleo muito mais rapidamente
+ do que um óleo agregado (WANG; STOUT, 2007).
+ 
+\end_layout
+
+\begin_layout Subsection
+Dissolução
+\end_layout
+
+\begin_layout Standard
+A dissolução, processo que ocorre imediatamente após o derrame, é a estabilizaçã
+o química dos componentes do óleo na água (NRC, 2003; WANG; STOUT, 2007).
+ Ela tem apenas uma pequena influência no comportamento e composição do
+ óleo, mas ainda é considerada um importante parâmetro porque os componentes
+ solúveis do petróleo, em particular os compostos aromáticos leves, são
+ mais tóxicos para as espécies aquáticas que os componentes alifáticos (NRC,
+ 2003).
+ Durante o processo de dissolução, alguns dos componentes mais solúveis
+ do óleo são perdidos para a água.
+ O grau de dissolução depende da composição e solubilidade do óleo, da composiçã
+o química dos sais da água, da temperatura, e processos físicos que permitem
+ a mistura.
+ A maioria destes compostos leves, no entanto, evapora antes de se dissolver
+ já que a evaporação é um processo 10 - 100 vezes mais rápido do que a dissoluçã
+o (ITOPF, 2014).
+\end_layout
+
+\begin_layout Subsection
+Biodegradação
+\end_layout
+
+\begin_layout Standard
+A biodegradação acontece quando microorganismos, como bactérias, alimentam-
+ se de hidrocarbonetos presentes no petróleo.
+ Uma ampla gama de microorganismos é necessária para uma redução significativa
+ na massa de óleo derramado, e este processo tende a funcionar melhor em
+ ambientes de água quente (EPA, 1999).
+ A biodegradação do petróleo é, essencialmente, um processo de oxidação
+ dos hidrocarbonetos, produzindo gás carbônico e ácidos orgânicos (PETERS
+ et al., 2007; ITOPF, 2014).
+ As transformações desses hidrocarbonetos normalmente ocorrem em etapas,
+ produzindo compostos oxidados como álcoois, fenóis, aldeídos e ácidos carboxíli
+cos, nessa sequência (WANG; STOUT, 2007).
+ Fatores ambientais, tais como as concentrações de oxigênio, nutrientes,
+ temperatura, salinidade, e pH, bem como as propriedades físicas do óleo
+ e do nível de energia do ambiente, afetam grandemente as taxas de biodegradação
+ (ITOPF, 2014).
+\end_layout
+
+\begin_layout Subsection
+Foto-oxidação
+\end_layout
+
+\begin_layout Standard
+A foto-oxidação é um processo significativo na degradação do óleo derramado
+ no mar, ocorrendo quando o óleo entra em contato com a água e o oxigênio
+ se combina com os hidrocarbonetos do óleo, produzindo compostos solúveis
+ em água (EPA, 1999).
+ Ela é promovida pela radiação ultravioleta do sol, e esta degradação fotoquímic
+a produz uma variedade de compostos oxidados, incluindo alcoóis, aldeídos,
+ cetonas, e ácidos carboxílicos, mais solúveis em água do que os compostos
+ iniciais.
+ Esses produtos solúveis da foto-oxidação tendem a ser mais tóxicos do que
+ o petróleo original (WANG; STOUT, 2007; ITOPF, 2014).
+ 
+\end_layout
+
+\begin_layout Subsection
+Sedimentação
+\end_layout
+
+\begin_layout Standard
+A sedimentação é causada pela adsorção do óleo, normalmente degradado em
+ sedimentos suspensos que, após a adsorção, eventualmente acumulam-se no
+ fundo do mar (NRC, 2003).
+ Entretanto, águas rasas são muitas vezes carregadas de sólidos em suspensão,
+ proporcionando condições favoráveis para a sedimentação.
+ O óleo presente em costas arenosas, muitas vezes mistura-se com areia e
+ outros sedimentos, e ao ser levada de volta para o mar, a mistura óleo-areia
+ tem um maior potencial para afundar (ITOPF, 2014).
+ 
+\end_layout
+
+\begin_layout Section
+Condições oceanográficas e meteorológicas observadas na Bacia de Campos
+\end_layout
+
+\begin_layout Standard
+As praias de Armação de Búzios e de Arraial do Cabo estão situadas na área
+ de abrangência da Bacia de Campos, na qual encontram-se vários campos produtore
+s de petróleo (Fig.
+ 1).
+ Pela região também circulam inúmeros navios petroleiros, e todos esses
+ fatores fazem com que o local seja propício a ser atingido por derramamentos
+ de óleo provenientes de problemas nas operações de E&P e no transporte
+ de navios-tanque.
+ Estes incidentes estão submetidos às condições oceanográficas, como as
+ correntes marinhas, e meteorológicas na Bacia de Campos.
+\end_layout
+
+\begin_layout Standard
+Eventos meteorológicos como frentes atmosféricas se formam quando há encontro
+ de massas de ar de características diferentes, com forte gradiente térmico.
+ Quando o ar frio está avançando e substituindo o ar quente, a borda anterior
+ da zona frontal é marcada por uma frente fria.
+ O vento muda de norte, noroeste ou nordeste para sul, sudeste ou sudoeste,
+ seguido por um aumento de pressão e queda na temperatura e no ponto de
+ orvalho (CAVALCANTI; KOUSKY; ANDRADE, 2022).
+\end_layout
+
+\begin_layout Standard
+Justi da Silva e Silva Dias (2002) fizeram uma climatologia dos sistemas
+ frontais no período de 1981-1999.
+ Nas regiões Sul e Sudeste do Brasil, o vento em baixos níveis tem direção
+ nordeste devido à influência da alta subtropical do Atlântico Sul, e então,
+ numa situação pré-frontal, o vento é tipicamente noroeste, depois gira
+ de sudoeste e de sudeste, à medida que a frente se desloca.
+\end_layout
+
+\begin_layout Standard
+Na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Número-médio-anual"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ é possível identificar o número médio de frentes frias por ano.
+ Pode-se observar um forte gradiente sobre a região Sul e Central do Brasil
+ que ocorre devido a diminuição de incursões de frentes frias em direção
+ ao equador.
+ A outra região é ao longo da costa leste do Brasil, onde, em média, de
+ 5 a 10 frentes alcançam a latitude de 15.°S cada ano (CAVALCANTI; KOUSKY;
+ ANDRADE, 2022).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/frentes frias.JPG
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Número médio anual de passagens de frentes frias durante o período de 1979
+ a 2005.
+ Áreas onde a pressão em superfície é menor do que 925 hPa nos dados das
+ reanálises CDAS são mascaradas (FERREIRA; CAVALCANTI, 2022
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Número-médio-anual"
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ao se tratar da bacia de Campos, é notório perceber que as frentes frias
+ que passam pela região já perderam suas características iniciais.
+ Visto que o contraste térmico entre as massas de ar é menor.
+ Na região das plataformas a frequência de frentes ao longo do ano é relativamen
+te constante, com uma diminuição durante o verão (Dezembo-Fevereiro) (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Número-médio-anual-1"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/frentes frias 2.JPG
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Número médio anual de passagens de frentes frias durante o período de 1979
+ a 2005.
+ Áreas onde a pressão em superfície é menor do que 925 hPa nos dados das
+ reanálises CDAS são mascaradas (FERREIRA; CAVALCANTI, 2022
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Número-médio-anual-1"
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+O comportamento dos oceanos também impacta de forma significativa nas condições
+ meteorológicas da atmosfera e na caracterização do clima do planeta, influencia
+ndo direta ou indiretamente atividades econômicas, sociais e em recursos
+ naturais renováveis e não renováveis (PEZZI; SOUZA, 2022).
+\end_layout
+
+\begin_layout Standard
+Na região da CBM (Corrente Brasil-Malvinas) (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Circulação-superficial-média"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+), onde ocorre o encontro entre a Corrente do Brasil (CB) e a Corrente das
+ Malvinas (CM), existem grandes diferenciais nos gradientes termais tanto
+ em caráter espacial quanto temporal.
+ Essa instabilidade, se deve ao fato da interação entre as águas quentes
+ e salinas da CB, e as águas frias e menos salinas da CM.
+ O contraste térmico, entre essas duas massas d’água, corrobora para a geração
+ de intensos gradientes de momento e calor, e de fluxos verticais na descontinui
+dade entre os fluidos oceano e atmosfera (PEZZI; SOUZA, 2022).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/Correntes oceânicas.JPG
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Circulação superficial média do oceano Atlântico Sul (FERREIRA; CAVALCANTI,
+ 2022)
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Circulação-superficial-média"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Tempestade tropical IBA
+\end_layout
+
+\begin_layout Standard
+A tempestade tropical Iba (Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Imagem-de-satélite"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+), formada em 2019, se tornou a primeira tempestade tropical a ser registrada
+ no Atlântico Sul desde a tempestade tropical Anita em 2010, e a primeira
+ tempestade tropical nomeada após a criação da lista de nomes de ciclones
+ tropicais do Atlântico Sul pelo Centro de Hidrografia da Marinha do Brasil
+ em 2011 (Centro de Hidrografia da Marinha, 2019).
+ A tempestade Iba se formou como uma depressão tropical durante uma monção
+ em 23 de março de 2019, na costa da Bahia (CPTEC, 2019; Centro de Hidrografia
+ da Marinha, 2019).
+ No dia 24 de março, a depressão ganhou força e se tornou uma Tempestade
+ Tropical, nomeada "Iba" pelo Centro de Hidrografia da Marinha do Brasil.
+ Nesta data os ventos máximos, girando no sentido horário, eram de 35 nós
+ (65 km/h) e a pressão central estimada em 1008 hpa (Centro de Hidrografia
+ da Marinha, 2019; ANGELI, 2019).
+ No dia 27 de março, a tempestade perdeu força e foi reclassificada novamente
+ como depressão tropical.
+ Em 28 de março, o fenômeno perdeu as suas características de ciclone tropical
+ e se transformou em um centro de baixa pressão comum em alto-mar (INMET,
+ 2019).
+ 
+\end_layout
+
+\begin_layout Standard
+Eventualmente ocorrem tempestades tropicais próximas à costa do sudeste
+ e nordeste brasileiro e isso se dá por conta de dois fatores principais.
+ O primeiro, é a temperatura de superfície do mar acima da média.
+ O segundo, é devido às perturbações no escoamento da atmosfera associado
+ aos sistemas frontais.
+ 
+\end_layout
+
+\begin_layout Standard
+No caso particular do derrame ocorrido na plataforma de Marlim Leste, a
+ tempestade IBA foi responsável por severas alterações nas condições de
+ tempo meteorológico sobre o oceano e sobre o litoral leste do nordeste
+ brasileiro e ao se dissolver deslocou-se no sentido sul.
+ Esse deslocamento alterou de forma significativa a circulação atmosférica
+ no entorno da plataforma, o que criou condições propícias para que tarballs
+ alcançassem as praias de Arraial do Cabo e de Búzios.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/IBA 1.1 (12-45 - 24.03.19).JPG
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Imagem de satélite da Tempestade Tropical IBA em 24 de Março de 2019 às
+ 12h45min.
+ Fonte: INMET
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Imagem-de-satélite"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Modelos matemáticos e computacionais utilizados na previsão do tempo e trajetóri
+a de uma mancha de óleo derramada no mar
+\end_layout
+
+\begin_layout Standard
+Modelos são ferramentas integradoras, sem as quais dificilmente se consegue
+ uma visão dinâmica de processos nos complexos sistemas ambientais (ROSMAN,
+ 2001).
+ As consequências adversas que surgem com os vazamentos, motivam desde já
+ uma preocupação no que diz respeito não só à monitoração e acompanhamento
+ da mancha de petróleo, mas também na capacidade de diagnosticar e prognosticar
+ eficazmente o comportamento e a trajetória do óleo derramado nas horas
+ seguintes.
+ É neste contexto que se torna relevante o desenvolvimento de modelos de
+ simulação de derrames de óleo, fundamentais para a gerência de análise
+ de riscos, tomada de decisões de contenção em caso de acidentes, planejamento
+ de barreiras flutuantes, determinação das áreas que serão atingidas e afetadas
+ pelo vazamento de óleo, planos de contingência e treinamentos de resposta
+ (ASCE, 1996, VICENTE, 2008).
+\end_layout
+
+\begin_layout Standard
+Os modelos podem ser probabilísticos ou determinísticos, de duas (2D) ou
+ três (3D) dimensões, sendo governados, dentre outros aspectos, pelos processos
+ de: advecção (vento e corrente), dispersão horizontal (linear, turbulenta
+ e gravitacional), inércia, viscosidade, tensão superficial, emulsificação,
+ transferência de massa, mudanças nas propriedades físico-químicas do óleo
+ e interação do óleo com a linha de costa.
+ Os modelos mais sofisticados abordam ainda o balanço de massa devido à
+ destilação, ou curva de ponto de ebulição, relacionada aos elementos tóxicos,
+ voláteis e aromáticos (ASCE, 1996).
+ 
+\end_layout
+
+\begin_layout Subsection
+ADIOS 2 
+\emph on
+(Automated Data Inquiry for Oil Spills)
+\end_layout
+
+\begin_layout Standard
+O ADIOS2 é uma ferramenta geralmente usada para uma resposta rápida de como
+ agir perante um derramamento de óleo.
+ Agrega um modelo de intemperismo do óleo, o qual utiliza uma base de dados
+ contendo mais de mil tipos de óleos crus e produtos refinados.
+ O programa fornece previsões rápidas acerca das características e do comportame
+nto do óleo derramado no ambiente marinho.
+ As estimativas feitas, apresentadas em forma de gráficos e de texto, são
+ projetadas para ajudar a responder às perguntas comumente levantadas durante
+ a resposta aos derrames de óleo e sua limpeza.
+ Utilizando equações matemáticas, o programa é capaz de prever: mudanças
+ durante o tempo na densidade, na viscosidade e no índice de água de um
+ óleo ou produto; as taxas com que o óleo evapora da superfície do mar e
+ se dispersa na água; e a taxa em que uma emulsão de óleo-em-água pode se
+ formar.
+ Foi desenvolvido para ser utilizado com a menor quantidade de informações
+ possíveis, podendo as mesmas serem rapidamente estimadas ou obtidas em
+ campo, tal como a velocidade do vento, a altura das ondas, a temperatura,
+ a salinidade ou a densidade da água, o tipo e a quantidade de óleo derramado,
+ e a taxa e a duração do derrame.
+ Fatores importantes tais como a trajetória do óleo são excluídos por não
+ serem modelados facilmente sem grandes quantidades de informação de entrada
+ e habilidade do usuário (NOAA, 2009).
+\end_layout
+
+\begin_layout Subsection
+SisBAHIA 
+\emph on
+(Sistema Base de Hidrodinâmica Ambiental)
+\end_layout
+
+\begin_layout Standard
+É um sistema profissional de modelos computacionais, registrado pela Fundação
+ Coppetec (órgão gestor de convênios e contratos de pesquisa do COPPE/UFRJ
+ – Instituto Alberto Luiz Coimbra de Pós Graduação e Pesquisa de Engenharia
+ (COPPE) da Universidade Federal do Rio de Janeiro), desenvolvido para projetos,
+ estudos e gestão ambiental de recursos hídricos.
+ Em tal sistema, os modelos são utilizados para previsão do escoamento e
+ movimento das águas, bem como do transporte de grandezas escalares de interesse.
+ O SisBAHIA pode ser empregado em simulações de cenários em águas costeiras,
+ baías, estuários, rios, reservatórios, lagos ou lagoas, visando a compreensão
+ da dinâmica de processos nestes complexos sistemas ambientais (ROSMAN,
+ 2009).
+ O SisBAHIA possui os seguintes módulos:
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Modelo Hidrodinâmico
+\emph default
+: é um modelo da linhagem FIST (Filtered in Space and Time) capaz de simular
+ a circulação hidrodinâmica bidimensional na vertical (2DH) ou tridimensional
+ (3D) em corpos d’água naturais sob diferentes cenários meteorológicos,
+ oceanográficos, fluviais ou lacustres.
+ A linha FIST representa um sistema de modelagem de corpos d’água com superfície
+ livre composto por uma série de modelos hidrodinâmicos, nos quais a modelagem
+ da turbulência é baseada em técnicas de filtragem, semelhantes às empregadas
+ na Simulação de Grandes Vórtices (LES - Large Eddy Simulation).
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Modelo de Transporte Euleriano
+\emph default
+: é um modelo de uso geral para simulação de transporte advectivo-difusivo
+ com reações, para escoamentos 2DH, ou em camadas selecionadas de escoamentos
+ 3D.
+ Modelos de Qualidade de Água e Eutrofização: trata- se de um conjunto de
+ modelos de transporte Euleriano, para simulação acoplada de até 11 parâmetros
+ de qualidade de água e indicadores de eutrofização: sal, temperatura, OD-
+ DBO, nutrientes compostos de nitrogênio e de fósforo e biomassa.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Modelo de Transporte Lagrangeano - Determinístico
+\emph default
+: é um modelo de uso geral para simulação de transporte advectivo-difusivo
+ com reações, para camadas selecionadas de escoamentos 3D ou 2DH.
+ Este modelo é adequado para simulações de problemas como:
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+• Plumas de emissários ou pontos de lançamento de efluentes ao longo da
+ costa;
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+• Derrames de óleo, instantâneos ou por período definido;
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+• Mistura de massas de água, tempos de troca e renovação de massas de água
+ entre diferentes setores de um corpo d’água;
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+• Determinação de tendências de deriva de sedimentos, substâncias dissolvidas
+ ou partículas flutuantes.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Modelo de Transporte Lagrangeano - Probabilístico
+\emph default
+: acoplado ao modelo anterior, permite obtenção de resultados probabilísticos
+ computados a partir de N eventos ou de resultados ao longo de um período
+ de tempo T.
+ Exemplos de resultados: probabilidade de toque no litoral, probabilidade
+ de passagem de manchas ou plumas de contaminantes, probabilidade de passagem
+ de manchas ou plumas com concentração acima de um valor limite, etc.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Modelo de Geração de Ondas
+\emph default
+: : é um modelo para geração de ondas por campos de vento permanentes ou
+ variáveis.
+ O modelo permite calcular, ao longo do tempo, a distribuição no domínio
+ espacial dos parâmetros referentes às ondas geradas tais como: alturas
+ significativas e médias quadráticas, períodos de pico, tensões oscilatórias
+ no fundo devido a ondas, etc.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Módulo de Análise & Previsão de Marés
+\emph default
+: por meio deste módulo é possível realizar análises harmônicas de registros
+ de níveis ou correntes para obtenção de determinadas constantes.
+ Fornecidas as constantes harmônicas de níveis ou de correntes, previsões
+ de valores em séries temporais com intervalos de tempo definidos pelo usuário,
+ bem como previsões de valores de máximos e mínimos entre uma data inicial
+ e uma final específicas podem ser realizadas neste módulo.
+\end_layout
+
+\begin_layout Section
+Artigos Científicos
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Artigos-Cientificos"
+
+\end_inset
+
+ (+específicos)
+\end_layout
+
+\begin_layout Standard
+....
+\end_layout
+
+\begin_layout Itemize
+Desenvolver cronológica e conceitualmente os trabalhos relacionados a sua
+ monografia/dissertação/tese.
+ 
+\end_layout
+
+\begin_layout Itemize
+Citar um a um os trabalhos lidos, descrevendo o que os outros autores fizeram
+ e como fizerem.
+ 
+\end_layout
+
+\begin_layout Itemize
+Pode incluir várias figuras e tabelas dos trabalhos citados, mas todos devem
+ ser claramente explicados, e devem ser diretamente relacionados ao problema
+ a ser resolvido.
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Se o artigo é diretamente relacionado ao seu trabalho fale bastante dele,
+ coloque figuras/tabelas;
+\end_layout
+
+\begin_layout Itemize
+Se o artigo é periférico, citar rapidamente.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Revisão dos métodos utilizados por outros autores, artigos científicos.
+\end_layout
+
+\begin_layout Itemize
+Descrição do modelo...., citações, referências,.., vantagens/desvantagens...
+\end_layout
+
+\begin_layout Itemize
+Nota importante, se o artigo descreve uma metodologia que você vai usar,
+ coloque aqui uma citação rápida e a descrição detalhada da metodologia
+ no capítulo de metodologia.
+ Mas lá precisa citar o autor original.
+\end_layout
+
+\begin_layout Itemize
+Se o artigo tem uma Figura que você vai reproduzir/comparar com seus resultados,
+ inclua aqui esta figura.
+ 
+\end_layout
+
+\begin_layout Itemize
+Se o artigo tem uma Tabela que você vai reproduzir/comparar com seus resultados,
+ inclua aqui esta tabela.
+\end_layout
+
+\begin_layout Itemize
+O leitor vai poder fazer a comparação direta do seu resultado com o de outros
+ autores.
+\end_layout
+
+\begin_layout Section
+Crítica aos Trabalhos Existentes
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Critica-aos-Trabalhos-Existentes"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+....
+\end_layout
+
+\begin_layout Itemize
+Coloque aqui uma crítica aos trabalhos existentes; esta crítica deve ajudar
+ a fundamentar/justificar seu trabalho.
+ A ideia é, os outros não viram o que estou vendo e eu vou fazer!
+\end_layout
+
+\begin_layout Itemize
+Ao final da revisão bibliográfica ressaltar a necessidade e importância
+ de seu trabalho.
+ Destacar as inovações de seu trabalho.
+\end_layout
+
+\begin_layout Itemize
+Ou seja, você precisa justificar - do ponto de vista tecnológico e científico
+ - a necessidade do seu trabalho!
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Em hipótese alguma coloque neste capítulo conceitos que já estão nos livros;
+ 
+\end_layout
+
+\begin_layout Plain Layout
+é muito chato ter de ler os mesmos conceitos centenas e centenas de vezes,
+ pense na banca.
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Para a banca o que importa é:
+\end_layout
+
+\begin_layout Plain Layout
+- escopo do problema e objetivos;
+\end_layout
+
+\begin_layout Plain Layout
+- revisão bibliográfica ->artigos recentes
+\end_layout
+
+\begin_layout Plain Layout
+- metodologia -> baseada nos outros autores
+\end_layout
+
+\begin_layout Plain Layout
+- seus resultados
+\end_layout
+
+\begin_layout Plain Layout
+- suas conclusões
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Lembre-se os professores do LENEP são, em sua maioria velhos, não tem mais
+ paciência para ler definições básicas!!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
