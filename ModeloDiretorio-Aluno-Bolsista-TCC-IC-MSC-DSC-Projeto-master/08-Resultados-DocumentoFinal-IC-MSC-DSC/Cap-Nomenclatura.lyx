@@ -116,6 +116,18 @@
 \series bold
 \shape italic
 \size huge
+\begin_inset VSpace 5mm*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\shape italic
+\size huge
 Nomenclatura
 \begin_inset Index idx
 status open
@@ -127,6 +139,42 @@ Nomenclatura
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\shape italic
+\size huge
+\begin_inset VSpace 3mm*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{Nomenclatura}
+\backslash
+thispagestyle{empty}
+\backslash
+addcontentsline{toc}{chapter}{Nomenclatura}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A nomenclatura apresenta os acrônimos em ordem alfabética.
 \end_layout
 
 \begin_layout Section*

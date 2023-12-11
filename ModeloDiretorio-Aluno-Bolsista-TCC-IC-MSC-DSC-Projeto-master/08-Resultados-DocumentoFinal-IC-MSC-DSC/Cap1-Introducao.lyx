@@ -157,13 +157,9 @@ pagenumbering{arabic}
 
 \begin_layout Standard
 A entrada de petróleo no mar pode ter diferentes fontes: exsudações naturais,
- atividades de exploração e de produção de petróleo em 
-\emph on
-offshore
-\emph default
-, transporte de óleo por oleodutos e por navios tanque, assim como, atividades
- ilegais envolvendo a lavagem de tanques com descarga de óleo em alto mar
- 
+ atividades de exploração e de produção de petróleo em offshore, transporte
+ de óleo por oleodutos e por navios tanque, assim como, atividades ilegais
+ envolvendo a lavagem de tanques com descarga de óleo em alto mar 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Board2003"
@@ -305,8 +301,8 @@ tarballs
  com aquelas do óleo tido como possível fonte poluidora, infere-se acerca
  das similaridades entre suas composições.
  Entretanto, esta similaridade composicional depende principalmente do tipo
- de óleo, das condições tempo meteorológico predominantes durante o derrame
- de óleo, das condições oceanográficas e dos processos intempéricos 
+ de óleo, das condições climáticas predominantes durante o derrame de óleo,
+ das condições oceanográficas e dos processos intempéricos 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Suneel2013"
@@ -382,15 +378,7 @@ noprefix "false"
 
 \end_inset
 
-) 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "ANP2020a"
-literal "true"
-
-\end_inset
-
-.
+).
  Entretanto, a ocorrência de 
 \emph on
 tarballs
@@ -398,18 +386,10 @@ tarballs
  em praias do litoral fluminense são muito raras, considerando as condições
  meteorológicas e oceanográficas normalmente observadas nesta região.
  Isto se justifica pela presença marcante da corrente oceânica, conhecida
- como Corrente do Brasil, que flui de norte para sul até a costa do Uruguai
- e normalmente conduz as manchas de petróleo, decorrentes de acidentes com
- derramamento na região da Bacia de Campos, para a região sul do país.
- 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Pezzi2016"
-literal "true"
-
-\end_inset
-
-.
+ como Corrente do Brasil, que flui de norte para sul até a costa do Uruguai.
+ Esta corrente normalmente conduz as manchas de petróleo, decorrentes de
+ acidentes com derramamento na região da Bacia de Campos, para a região
+ sul do país.
  
 \end_layout
 
@@ -423,7 +403,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/UENF/IC - TCC/Projeto/Imagens/Bacia de Campos.jpg
+	filename imagens/Bacia de Campos.jpg
 	lyxscale 80
 	scale 73
 
@@ -507,18 +487,18 @@ Objetivo geral:
 \end_layout
 
 \begin_layout Standard
-Caracterizar amostras de petróleo degradado (
+Caracterizar geoquimicamente amostras de petróleo degradado (
 \emph on
 tarballs
 \emph default
 ) coletadas na Praia Brava, Armação dos Búzios e na Prainha, Arraial do
- Cabo, Região dos Lagos, provenientes de um derrame de petróleo ocorrido
+ Cabo, Região dos Lagos, provenientes de um derrame de petróleo real ocorrido
  na plataforma de produção de petróleo P-53 localizada no campo de Marlim
  Leste, Bacia de Campos.
  Esta caracterização teve como foco avaliar o grau de intemperismo do óleo
  derramado que chegou à costa, levando em consideração o tempo de permanência
  do óleo derramado no mar e as condições meteorológicas e oceanográficas
- observadas na região do derrame entre os dias 23 e 28 de março de 2019.
+ observadas na região durante o período do derrame.
 \end_layout
 
 \begin_layout Itemize
@@ -543,8 +523,9 @@ alcanos, isoprenóides e biomarcadores saturados.
 \begin_layout Itemize
 Avaliar os dados compilados das condições meteorológicas e oceanográficas
  observadas na região de produção de petróleo da Bacia de Campos, na época
- do derrame, para contribuir com os estudos relacionados com a trajetória
- de uma mancha de óleo derramado na região da Bacia de Campos.
+ do derrame real, para contribuir com os estudos relacionados com a trajétória
+ de uma mancha de óleo derramado na região da Bacia de Campos, e com a estimativ
+a de tempo de residência destas amostras no mar.
 \end_layout
 
 \begin_layout Itemize
@@ -552,8 +533,7 @@ Comparar o grau de intemperismo do óleo derramado, obtido pela caracterização
  geoquímica, e as condições meteorológicas e oceanográficas observadas durante
  o derrame real com os resultados de uma modelagem matemática computacional
  da trajetória e do tempo de permanência de óleo no mar de um derrame simulado
- na Bacia de Campos feito pelo Prof.
- Paulo César Rosman (COPPE/UFRJ).
+ na Bacia de Campos.
 \begin_inset Newpage pagebreak
 \end_inset
 

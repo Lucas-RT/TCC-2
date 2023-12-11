@@ -116,7 +116,19 @@
 INFLUÊNCIA DE UM EVENTO METEOROLÓGICO NA TRAJETÓRIA E NÍVEL DE DEGRADAÇÃO
  DE AMOSTRAS DE TARBALLS DE UM DERRAMAMENTO DE ÓLEO OCORRIDO NA BACIA DE
  CAMPOS, RIO DE JANEIRO
-\begin_inset VSpace 2mm
+\begin_inset Separator latexpar
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\series bold
+\shape italic
+\size huge
+\begin_inset VSpace 8mm*
 \end_inset
 
 
@@ -142,7 +154,12 @@ Resumo
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace 2mm
+\align center
+
+\series bold
+\shape italic
+\size huge
+\begin_inset VSpace 6mm*
 \end_inset
 
 
@@ -195,29 +212,21 @@ Derramamentos de petróleo geram grandes prejuízos para a vida marinha e
 tarballs
 \emph default
 ) provenientes de um derrame acidental de petróleo no mar ocorrido na plataforma
- P-53, Campo de Marlim Leste, Bacia de Campos, após a passagem da Tempestade
- Tropical Iba pela região.
- As amostras de 
-\emph on
-tarballs
-\emph default
- foram coletadas nas praias de Armação dos Búzios e Arraial do Cabo, RJ,
- no dia 3 de abril de 2019.
+ P-53 (FPU), Campo de Marlim Leste, Bacia de Campos, após a passagem da
+ Tempestade Tropical Iba pela região.
+ As amostras de tarballs foram coletadas nas praias de Armação dos Búzios
+ e Arraial do Cabo, RJ, no dia 3 de abril de 2019.
  O objetivo deste trabalho foi avaliar a alteração composicional dos componentes
  da fração de hidrocarbonetos saturados das amostras, visando analisar o
- seu nível de degradação e até onde a Tempestade Tropical Iba influenciou
- no tempo e na trajetória de deslocamento da mancha, levando o óleo a tocar
- as praias.
+ quanto essas amostras foram degradadas e até onde a Tempestade Tropical
+ Iba influenciou no tempo e na trajetória de deslocamento da mancha, levando
+ o óleo a tocar as praias.
  Para auxiliar esta estimativa, foram usados dados meteorológicos levantados
- na região de ocorrência do derrame, um mês antes da coleta das amostras
- de 
-\emph on
-tarballs
-\emph default
- nas praias.
+ na região de produção de petróleo da Bacia de Campos, um mês antes da coleta
+ das amostras de tarballs nas praias.
  Para atingir este objetivo, as frações de hidrocarbonetos saturados presentes
  nas amostras foram analisadas por cromatografia gasosa com detector de
- ionização chama (CG/DIC) para a análise de 
+ ionização em chama (CG/DIC) para a análise de 
 \emph on
 n
 \emph default
@@ -232,7 +241,12 @@ n
  O mesmo comportamento foi observado quando se analisou as razões diagnósticas
  de biomarcadores saturados.
  Assim, foi possível concluir que o óleo que chegou nas praias de Armação
- dos Búzios ficou no mar por mais tempo.
+ dos Búzios ficaram à deriva no mar por mais tempo.
+ Estes resultados vão de encontro daqueles obtidos por um estudo de modelagem
+ computacional da deriva de uma mancha de óleo derramada na região da Bacia
+ de Campos, no qual foi apontado como resultado da simulação que a mancha
+ de óleo tocaria primeiramente as praias de Arraial do Cabo, e num segundo
+ momento, as praias de Armação dos Búzios, RJ.
 \end_layout
 
 \begin_layout Standard
@@ -271,7 +285,7 @@ INFLUENCE OF A WEATHER EVENT ON THE TRAJECTORY AND DEGRADATION LEVEL OF
 \series bold
 \shape italic
 \size huge
-\begin_inset VSpace 1mm
+\begin_inset VSpace 8mm*
 \end_inset
 
 
@@ -302,7 +316,7 @@ Abstract
 \series bold
 \shape italic
 \size huge
-\begin_inset VSpace 1mm
+\begin_inset VSpace 6mm*
 \end_inset
 
 
@@ -351,7 +365,7 @@ Oil spills cause great damage to marine and terrestrial life, human health
  predicting the potential impact in the medium and long terms, and deciding
  the most effective remediation measures.
  In this work, samples of degraded oil (tarballs) were analyzed from an
- accidental oil spill at sea that occurred on the P-53 platform, Marlim
+ accidental oil spill at sea that occurred on the P-53 platform (FPU), Marlim
  Leste Field, Campos Basin, after Tropical Storm Iba passed through the
  region.
  Tarball samples were collected on the beaches of Armação dos Búzios and
@@ -380,7 +394,16 @@ n
  The same behavior was observed when analyzing the diagnostic ratios of
  saturated biomarkers.
  Thus, it was possible to conclude that the oil that arrived on the beaches
- of Armação dos Búzios remained longer at the sea.
+ of Armação dos Búzios remained adrift at sea for longer.
+ These results are in line with those obtained by a computer modeling study
+ of the drift of an oil slick spilled in the Campos Basin region, in which
+ it was pointed out as a result of the simulation that the oil slick would
+ first touch the beaches of Arraial do Cabo, and secondly, the beaches of
+ Armação dos Búzios, RJ.
+\begin_inset space ~
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

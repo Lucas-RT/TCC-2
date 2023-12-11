@@ -114,9 +114,9 @@ name "chap:Resultados-e-Discussões"
 \end_layout
 
 \begin_layout Standard
-Apresenta-se neste capítulo os resultados obtidos através das análises por
- cromatografia líquida, cromatografia gasosa acoplada a espectometria de
- massas e gasosa com detecção de ionização em chama e a discussão destes
+Apresenta-se neste capítulo os resultados obtidos atra vés das análises
+ por cromatografia líquida, cromatografia gasosa acoplada a espectometria
+ de massas e gasosa com detecção de ionização em chama e a discussão destes
  resultados em relação a trabalhos já publicados na literatura.
 \begin_inset ERT
 status open
@@ -190,7 +190,18 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-A Tabela 
+A Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Diagrama-ternário-contendo"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ mostra o diagrama ternário indicando as porcentagens das frações de compostos
+ saturados, aromáticos e polares (NSO) Tabela 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "tab:Porcentagens-das-concentrações"
@@ -200,9 +211,8 @@ noprefix "false"
 
 \end_inset
 
- mostra as porcentagens das frações de compostos saturados, aromáticos e
- polares (NSO) obtidas após a análise por cromatografia líquida das amostras
- coletadas nas praias de Arraial do Cabo (AC) e de Armação dos Búzios (AB).
+ obtidas após a análise por cromatografia líquida das amostras coletadas
+ nas praias de Arraial do Cabo (AC) e de Armação dos Búzios (AB).
  
 \end_layout
 
@@ -244,7 +254,7 @@ name "tab:Porcentagens-das-concentrações"
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/Tabela Cromatografia Líquida.JPG
+	filename imagens/Tabela Cromatografia Líquida.JPG
 	lyxscale 70
 	scale 70
 
@@ -259,31 +269,15 @@ name "tab:Porcentagens-das-concentrações"
 \end_layout
 
 \begin_layout Standard
-A partir das porcentagens de cada fração, foi possível traçar o diagrama
- ternário contendo as amostras das duas praias (Figura 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:Diagrama-ternário-contendo"
-plural "false"
-caps "false"
-noprefix "false"
-
-\end_inset
-
-).
- As amostras de Arraial do Cabo estão localizadas na região mais próxima
- do centro do diagrama (área circulada) o que indica uma menor porcentagem
- de compostos polares, ao contrário das amostras de Armação dos Búzios,
- as quais encontram-se mais próximas do vértice do diagrama onde estão represent
-adas as amostras que contém maior concentração de compostos polares (NSO).
- Portanto, é possível concluir que por se tratarem de óleos da mesma origem,
- as amostras de Armação dos Búzios perderam uma maior quantidade de compostos
- de menor peso molecular (como 
-\emph on
-n
-\emph default
--alcanos e aromáticos), com aumento relativo de polares, em comparação com
- as amostras coletadas na praia de Arraial do Cabo.
+As amostras AC-1, AC-2 e AC-3 estão localizadas na região mais próxima do
+ centro do diagrama (área circulada) o que indica um menor grau de degradação,
+ ao contrário das amostras de Armação dos Búzios, as quais encontram-se
+ mais próximas do vértice do diagrama onde estão representadas as amostras
+ que contém maior concentração de compostos polares (NSO), mais resistentes
+ aos processos intempéricos.
+ Portanto, é possível concluir que elas sofreram um maior grau de degradação,
+ e consequentemente, estiveram expostas por mais tempo aos agentes intempéricos.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -296,7 +290,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/diagrama.JPG
+	filename imagens/diagrama.JPG
 	lyxscale 60
 	scale 65
 
@@ -473,7 +467,6 @@ noprefix "false"
 \end_inset
 
 .
- Os cromatogramas para todas as amostras encontram-se no Apêndice A.
 \end_layout
 
 \begin_layout Standard
@@ -519,9 +512,9 @@ name "tab:Concentrações-de-n-alcanos,"
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/Tabela n-alcanos.JPG
-	lyxscale 75
-	scale 75
+	filename imagens/Tabela n-alcanos.JPG
+	lyxscale 90
+	width 100text%
 
 \end_inset
 
@@ -713,7 +706,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/n-alcanos e isoprenoides.JPG
+	filename imagens/n-alcanos e isoprenoides.JPG
 	lyxscale 60
 	scale 60
 
@@ -819,7 +812,7 @@ n
  dos Búzios, de 0,62 e 2,76 respectivamente.
  Em 2000, Wang e colaboradores avaliaram um óleo proveniente de um derrame
  no Quebec.
- Os autores estudaram 3 amostras nas quais os valores das razões de 
+ Os autores estudaram 3 amostras as quais os valores das razões de 
 \emph on
 n
 \emph default
@@ -827,7 +820,7 @@ n
 \begin_inset Formula $C_{17}$
 \end_inset
 
-/Pr e de 
+/Pr eram maiores que os valores das razões de 
 \emph on
 n
 \emph default
@@ -835,8 +828,7 @@ n
 \begin_inset Formula $C_{18}$
 \end_inset
 
-/F era maiores que os valores das razões observados para as amostras estudadas
- no presente trabalho.
+/F.
  Tal diferença pode ser justificada pois o derrame de óleo se deu em um
  rio numa região fria, desta forma, as amostras de óleo não sofreram de
  forma excessiva as ações intempéricas 
@@ -858,10 +850,10 @@ tarballs
 \emph default
  coletadas das duas praias foram de 0,61 para Arraial do Cabo e 0,54 para
  Armação dos Búzios.
- Resultados similares também foram observados por Azevedo e colaboradores
- em um estudo forense envolvendo óleos derramados em praias do estado do
- Ceará no Nordeste brasileiro, com valores variando de 0,38 a 0,45 para
- a razão Pristano/Fitano 
+ Tais resultados podem ser comparados com aqueles observados por Azevedo
+ e colaboradores em um estudo forense envolvendo óleos derramados em praias
+ do estado do Ceará no Nordeste brasileiro, com valores variando de 0,38
+ a 0,45 para a razão Pristano/Fitano 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Azevedo2022"
@@ -885,11 +877,10 @@ noprefix "false"
 
 \end_inset
 
-), nota-se que houve degradação preferencial do Pr em relação ao F nas amostras
- de Armação dos Búzios, indicando novamente a remoção preferencial dos compostos
- de menor peso molecular nessas amostras.
- Sendo assim, é possível sugerir que as amostras de Armação dos Búzios ficaram
- mais tempo expostas aos efeitos intempéricos.
+), reforça-se a hipótese de que as amostras de Armação dos Búzios sofreram
+ mais degradação ao longo do caminho entre a plataforma P-53 e a costa da
+ Região dos Lagos, RJ.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -902,7 +893,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/índice de intemperismo2.JPG
+	filename imagens/índice de intemperismo2.JPG
 	lyxscale 60
 	scale 65
 
@@ -1080,7 +1071,11 @@ a)
 \end_layout
 
 \begin_layout Section
-Avaliação do Intemperismo Sobre os Compostos Biomarcadores Saturados
+Avaliação do Intemperismo Sobre os Compostos Bio\SpecialChar softhyphen
+mar\SpecialChar softhyphen
+ca\SpecialChar softhyphen
+do\SpecialChar softhyphen
+res Saturados
 \begin_inset Index idx
 status open
 
@@ -1103,8 +1098,8 @@ name "sec:Analise-Resultados-1"
 \begin_layout Standard
 Os biomarcadores saturados encontrados no petróleo são amplamente utilizados
  para identificar a origem do óleo derramado no meio ambiente pela sua correlaçã
-o com fontes suspeitas, uma vez que estes compostos são bastante resistentes
- a efeitos de intemperismo 
+o com fontes suspeitas, uma vez que estes compostos são geralmente bastante
+ resistentes a efeitos de intemperismo 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Lima2021"
@@ -1126,8 +1121,6 @@ noprefix "false"
 \end_inset
 
 ).
- Os cromatogramas obtidos do íon-fragmento m/z 191 encontram-se no Apêndice
- B e os obtidos do íon-fragmento m/z 217 encontram-se no Apêndice C.
 \end_layout
 
 \begin_layout Standard
@@ -1199,7 +1192,7 @@ name "tab:Razões-diagnósticas-de"
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/tabela biomarcadores.JPG
+	filename imagens/tabela biomarcadores.JPG
 	lyxscale 75
 	scale 80
 
@@ -1241,7 +1234,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/Biomarcadores Saturados.JPG
+	filename imagens/Biomarcadores Saturados.JPG
 	lyxscale 60
 	scale 65
 
@@ -1286,9 +1279,7 @@ Através da avaliação da porcentagem dos esteranos
 \end_inset
 
 , foi possível observar um valor médio mais elevado para Arraial do Cabo
- (39,41%), quando comparado aquele de Armação dos Búzios (36,89%), o que
- indica maior preservação por parte das amostras de Arraial do Cabo e consequent
-emente menor preservação das amostras de Armação dos Búzios.
+ (39,41%), quando comparado aquele de Armação dos Búzios (36,89%).
  Tais valores elevados também foram observados por Lima e colaboradores
  em seus estudos com amostras de óleo provenientes da Bacia de Campos, cuja
  média foi de 49,32% 
@@ -1313,22 +1304,10 @@ Para a família dos terpanos tricíclicos, os resultados encontrados para
 \end_inset
 
  foram de 0,67 para as amostras de Arraial do Cabo e 0,58 para Armação dos
- Búzios mostrando maior resistência do 
-\begin_inset Formula $Tr_{23}$
-\end_inset
-
- em comparação ao 
-\begin_inset Formula $Tr_{21}$
-\end_inset
-
- nas amostras mais degradadas (Armação dos Búzios), visto que a razão diminuiu.
- Resultados similares, 0,52 e 0,66, foram encontrados em experimentos de
- simulação de derrames no mar que avaliaram o intemperismo sobre amostras
- de 
-\emph on
-tarballs
-\emph default
- provenientes da Bacia de Campos 
+ Búzios.
+ Resultados semelhantes, 0,52 e 0,66, foram encontrados em experimentos
+ de simulação de derrames no mar que avaliaram o intemperismo sobre óleos
+ derramados (Bacia de Campos) 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Lima2017"
@@ -1441,7 +1420,7 @@ name "sec:Analise-Resultados-2"
 \begin_layout Standard
 Segundo o boletim pós-evento emitido pelo Serviço Meteorológico Marinho
  (SMM), Centro de Hidrografia da Marinha (CHM) e Marinha do Brasil, a tempestade
- durou entre os dias 23 e 28 de março de 2019, tendo aproximadamente 108
+ durou entre os dias 23 e 28 de Março de 2019, tendo aproximadamente 108
  h de duração com vento máximo de 60 nós no dia 25 e a maior altura de onda
  de 8,45 m registrada no dia 27 
 \begin_inset CommandInset citation
@@ -1457,20 +1436,12 @@ literal "true"
 \begin_layout Standard
 Após a passagem de um sistema frontal sobre o oceano, um centro de baixa
  pressão se formou na área ECHO, próximo ao litoral sul do estado da Bahia,
- na noite do dia 22 de março.
+ na noite do dia 22 de Março.
  Na manhã do dia 23, o ciclone apresentou um núcleo quente e profundo em
  sua estrutura vertical, configurando-o como um ciclone tropical, sendo
  a ele atribuída a classificação de Depressão Tropical (DT).
  O sistema se manteve quase-estacionário ao longo deste dia, atuando sobre
- a área ECHO 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "SMM2019"
-literal "true"
-
-\end_inset
-
-.
+ a área ECHO.
  
 \end_layout
 
@@ -1480,7 +1451,7 @@ do como Tempestade Tropical (TT) de maior intensidade, sendo atribuído o
  nome “Iba”.
  Ao longo deste dia, a TT Iba moveu-se para sul, adentrando a área DELTA
  durante a noite.
- A TT Iba seguiu deslocando-se para sul ao longo do dia 25 de março e seguiu
+ A TT Iba seguiu deslocando-se para sul ao longo do dia 25 de Março e seguiu
  para sudeste no dia 26, afastando-se do litoral, e atuando sobre o leste
  da área DELTA.
  Verificou-se que devido ao enfraquecimento dos ventos, o sistema foi reclassifi
@@ -1510,9 +1481,9 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/mapa iba, p-53.JPG
+	filename imagens/mapa iba, p-53.JPG
 	lyxscale 70
-	scale 70
+	width 100text%
 
 \end_inset
 
@@ -1525,9 +1496,9 @@ status open
 \begin_layout Plain Layout
 Mapa da trajetória do ciclone Iba gerado na plataforma do Google Earth conforme
  posições geográficas informadas pelo SMM, intervaladas a cada 12 horas.
- Legenda: Dias 23, 24, 27 de março (27MAR2019-12Z) indicam “Depressão Tropical”.
- Dias 25, 26 e 27 de março (27MAR2019-00Z) indicam “Tempestade Tropical”.
- Dia 28 de março indica “Baixa pressão”.
+ Legenda: Dias 23, 24, 27 de Março (27MAR2019-12Z) indicam “Depressão tropical”.
+ Dias 25, 26 e 27 de Março (27MAR2019-00Z) indicam “Tempestade Tropical”.
+ Dia 28 de Março indica “Baixa pressão”.
  
 \begin_inset CommandInset label
 LatexCommand label
@@ -1560,7 +1531,7 @@ noprefix "false"
 \end_inset
 
 , o sistema tropical atuou inicialmente sobre a área ECHO, na manhã do dia
- 23 de março, formando-se a 180 milhas náuticas (333 km) a leste do litoral
+ 23 de Março, formando-se a 180 milhas náuticas (333 km) a leste do litoral
  sul do estado da Bahia.
  O ciclone permaneceu sobre esta área, com pouco deslocamento, até a manhã
  do dia 25, quando adentrou a área DELTA.
@@ -1606,7 +1577,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/ibaseta.JPG
+	filename imagens/ibaseta.JPG
 	lyxscale 85
 	scale 85
 
@@ -1620,7 +1591,7 @@ status open
 
 \begin_layout Plain Layout
 Imagem de satélite da tempestade Iba retirada do site do CPTEC no dia 25
- de março às 04h15min, com a indicação do sentido horário dos ventos gerados
+ de Março às 04h15min, com a indicação do sentido horário dos ventos gerados
  pela tempestade e a localização aproximada da plataforma P-53.
  
 \begin_inset CommandInset label
@@ -1725,7 +1696,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/Mancha IBAMA.JPG
+	filename imagens/Mancha IBAMA.JPG
 	lyxscale 75
 	scale 75
 
@@ -1816,7 +1787,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/Mapa RJ - Modelagem.jpeg
+	filename imagens/Mapa RJ - Modelagem.jpeg
 	lyxscale 60
 	scale 35
 
@@ -1869,8 +1840,8 @@ tarballs
  coletadas confirmaram o modelo.
  Esta modelagem se mostrou confiável ao determinar que o município de Arraial
  do Cabo seria o primeiro a receber o toque de óleo em suas praias (30%
- de chance) e que o município de Armação dos Búzios receberia o óleo posteriorme
-nte com 12% de chance.
+ de chance) e que o município de Armação dos Búzios seria o segundo a receber
+ o óleo com 12% de chance.
  
 \end_layout
 

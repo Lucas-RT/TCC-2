@@ -82,6 +82,10 @@ Cromatogramas m/z 217 (CG-EM)
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 \begin_inset ERT
 status open
 
@@ -100,19 +104,18 @@ thepage}
 
 \end_inset
 
-Os resultados obtidos por CG-EM utilizando o íon m/z 217 das amostras de
- Armação dos Búzios (AB-1, AB-2, AB-3) e Arraial do Cabo (AC-1, AC-2, AC-3)
- estão apresentados na Figura 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:Cromatogramas-de-massas-1"
-plural "false"
-caps "false"
-noprefix "false"
+
+\end_layout
 
 \end_inset
 
-.
+
+\end_layout
+
+\begin_layout Standard
+Serão apresentados a seguir os cromatogramas de massas dos biomarcadores
+ saturados m/z 217 obtidos por CG-EM das amostras de Armação dos Búzios
+ (AB-1, AB-2, AB-3) e Arraial do Cabo (AC-1, AC-2, AC-3).
 \end_layout
 
 \begin_layout Standard
@@ -125,30 +128,9 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/Íon (mz 217).JPG
-	lyxscale 75
-	scale 75
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-Cromatogramas de massas dos biomarcadores saturados m/z 217 das amostras
- de Armação dos Búzios e Arraial do Cabo.
- 
-\begin_inset CommandInset label
-LatexCommand label
-name "fig:Cromatogramas-de-massas-1"
-
-\end_inset
-
-
-\end_layout
+	filename imagens/mz 217 teste.jpg
+	lyxscale 85
+	scale 90
 
 \end_inset
 

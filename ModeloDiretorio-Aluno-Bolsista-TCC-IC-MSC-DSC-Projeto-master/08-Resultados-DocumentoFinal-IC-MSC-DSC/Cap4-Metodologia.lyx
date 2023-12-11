@@ -174,8 +174,8 @@ Seis amostras de
 tarballs
 \emph default
  foram coletadas na Região dos Lagos, RJ no dia 3 de abril de 2019, sendo
- três amostras coletadas da Praia Brava, Armação dos Búzios e três amostras
- da Prainha, Arraial do Cabo (Figura 
+ três amostras de óleo coletadas da Praia Brava, Armação dos Búzios e três
+ amostras da Prainha, Arraial do Cabo (Figura 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:Amostras-de-tarballs"
@@ -198,9 +198,9 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/amostraspraia.JPG
-	lyxscale 65
-	scale 65
+	filename imagens/amostraspraia.JPG
+	lyxscale 55
+	scale 55
 
 \end_inset
 
@@ -211,12 +211,12 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-a) e b) Amostras de 
+Amostras de 
 \emph on
 tarballs
 \emph default
- identificadas na praia de Praia Brava, Armação dos Búzios.
- c) Amostras de tarballs identificadas na praia de Prainha, Arraial do Cabo
+ identificadas nas praias de Prainha, Arraial do Cabo e Praia Brava, Armação
+ dos Búzios.
  
 \begin_inset CommandInset label
 LatexCommand label
@@ -266,7 +266,7 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/amostras_ab_ac.JPG
+	filename imagens/amostras_ab_ac.JPG
 	lyxscale 55
 	scale 50
 
@@ -310,17 +310,17 @@ name "fig:amostras"
 
 \begin_layout Standard
 Ao chegarem ao laboratório as amostras foram separadas da areia e de outros
- detritos através da solubilização do óleo intemperizado em um béquer com
- aproximadamente 50 mL de diclorometano até a dissolução completa do óleo
- e, em seguida, foi adicionado sulfato de sódio anidro (
+ detritos através da solubilização do óleo intemperizado com diclorometano
+ até a dissolução completa do óleo e, em seguida, foi adicionado sulfato
+ de sódio anidro (
 \begin_inset Formula $Na_{2}SO_{4}$
 \end_inset
 
 ) para remover a água ainda presente nas amostras.
  Essa solução foi filtrada, transferida para outro béquer previamente pesado
- e o solvente foi evaporado, após a evaporação completa do solvente, as
- amostras foram pesadas e armazenadas em frascos âmbar na geladeira para
- posteriores análises cromatográficas.
+ e o solvente foi evaporado, após a evaporação completa do solvente, verificada
+ através da medida de massa constante, as amostras foram pesadas e armazenadas
+ em frascos âmbar na geladeira para posteriores análises cromatográficas.
 \end_layout
 
 \begin_layout Standard
@@ -351,9 +351,9 @@ status open
 \begin_layout Plain Layout
 \align center
 \begin_inset Graphics
-	filename C:/Users/Lucas/Desktop/ModeloDiretorio-Aluno-Bolsista-TCC-IC-MSC-DSC-Projeto-master/imagens/Imagens TCC/Fluxograma.JPG
-	lyxscale 75
-	scale 75
+	filename imagens/Fluxograma.JPG
+	lyxscale 55
+	scale 55
 
 \end_inset
 
@@ -390,8 +390,12 @@ Análise de
 \emph on
 n
 \emph default
--alcanos e Isoprenóides por Cromatografia em Fase Gasosa com Detector de
- Ionização Chama (CG/DIC)
+-alcanos e Isoprenóides por Croma\SpecialChar softhyphen
+to\SpecialChar softhyphen
+gra\SpecialChar softhyphen
+fia em Fase Gasosa com Detector de
+ Ionização de Cha\SpecialChar softhyphen
+ma (CG/DIC)
 \begin_inset Index idx
 status open
 
@@ -421,7 +425,7 @@ n
 \emph on
 Agilent Technologies (6890N)
 \emph default
- com detector de ionização chama (CG-DIC), auto injetor 
+ com detector de ionização por chama (CG-DIC), auto injetor 
 \emph on
 G4513A
 \emph default
@@ -453,28 +457,11 @@ splitless
  Foi injetado 1 µL da amostra diluída em diclorometano na concentração de
  0,01 mg.µL-¹ e utilizado como padrão interno o α-androstano na concentração
  de 0,02 mg.mL-¹.
- Todos os dados foram processados pelo 
-\emph on
-software
-\emph default
- 
+ Todos os dados foram processados pelo software 
 \emph on
 MSD Chemstation
 \emph default
  do equipamento.
- 
-\end_layout
-
-\begin_layout Standard
-A partir desta análise, foi calculada a média e o desvio padrão para as
- amostras de Arraial do Cabo (AC-1, AC-2 e AC-3) e Armação dos Búzios (AB-1,
- AB-2, e AB-3) a partir de suas respectivas concentrações de modo a traçar
- os gráficos de 
-\emph on
-n
-\emph default
--alcanos e isoprenóides e o gráfico contendo a razão Pristano/Fitano e o
- índice de intemperismo.
 \end_layout
 
 \begin_layout Section
@@ -518,15 +505,19 @@ n
 \emph on
 n
 \emph default
--hexano:diclorometano (8:2 v/v) e os compostos polares foram obtidos por
- diferença das demais frações.
+-hexano: diclorometano (8:2 v/v) e polares com 30 mL da mistura dicolorometano:m
+etanol (9:1 v/v).
  Cada fração foi recolhida em frasco âmbar previamente pesado, o solvente
  foi evaporado e, posteriormente, tiveram suas massas registradas.
 \end_layout
 
 \begin_layout Section
 Análise Geoquímica dos Compostos Biomarcadores Saturados do Petróleo por
- Cromatografia em Fase Gasosa Acoplada à Espectrometria de Massas (CG/EM)
+ Cromatografia em Fase Gasosa Acoplada à Espectrometria de Massas 
+\begin_inset Newline newline
+\end_inset
+
+(CG/EM)
 \begin_inset Index idx
 status open
 
@@ -547,8 +538,8 @@ name "sec:Análise Geoquímica de Biomarcadores"
 \end_layout
 
 \begin_layout Standard
-As frações de compostos saturados das amostras coletadas foram submetidas
- a análise por CG/EM para avaliação dos biomarcadores saturados do petróleo.
+As frações de saturados das amostras coletadas foram submetidas a análise
+ por CG/EM para avaliação dos biomarcadores saturados do petróleo.
  As análise foram realizadas em um cromatógrafo em fase gasosa 
 \emph on
 Agilent Technologies 6890N
@@ -581,23 +572,11 @@ Single Ion Monitoring
 \emph default
 ) como modo de análise para os compostos das famílias dos terpanos tricíclicos
  e pentacíclico (m/z 191) e esteranos (m/z 217).
- Todos os dados foram processados pelo 
-\emph on
-software
-\emph default
- 
+ Todos os dados foram processados pelo software 
 \emph on
 MSD Chemstation 
 \emph default
 do equipamento.
- 
-\end_layout
-
-\begin_layout Standard
-A partir desta análise, foi calculada a média e o desvio padrão para as
- amostras de Arraial do Cabo (AC-1, AC-2 e AC-3) e Armação dos Búzios (AB-1,
- AB-2, e AB-3) para traçar os gráficos das razões diagnósticas de biomarcadores
- saturados.
 \end_layout
 
 \begin_layout Section
@@ -637,18 +616,19 @@ https://satelite.cptec.inpe.br/acervo/goes16.formulario.logic
 \end_inset
 
 , é possível selecionar a data de interesse, o canal de imagem do satélite
- com sua respectiva banda espectral e em seguida, selecionar a hora que
- se deseja observar.
+ com sua respectiva banda espectral (o que dita a frequência e a qualidade
+ da imagem a ser analisada) e em seguida, selecionar a hora que se deseja
+ observar.
  
 \end_layout
 
 \begin_layout Standard
-Para este trabalho, foram selecionados os dias 24 e 25 de março de 2019,
- para registro das imagens do satélite pois foi o momento em que a Tempestade
- Tropical Iba teve seu pico de intensidade 
+Para este trabalho, foram selecionadas as datas dos dias 24 e 25 de março
+ de 2019, para registro das imagens do satélite pois foi o momento em que
+ a Tempestade Tropical Iba teve seu pico de intensidade 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "JEANDOS2019,SMM2019"
+key "Reis2019,SMM2019"
 literal "true"
 
 \end_inset
