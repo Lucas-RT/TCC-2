@@ -1,0 +1,1878 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass abnt
+\begin_preamble
+\usepackage {graphicx}
+\usepackage {longtable}
+
+\usepackage {indentfirst}
+\renewenvironment{center}{\par\centering}{\par}
+\end_preamble
+\use_default_options false
+\master Monografia-Dissertacao-Tese-master.lyx
+\maintain_unincluded_children false
+\language brazilian
+\language_package default
+\inputencoding iso8859-1
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement p
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Índice
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 210mm
+\paperheight 297mm
+\leftmargin 30mm
+\topmargin 25mm
+\rightmargin 20mm
+\bottommargin 20mm
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Resultados e Discussões
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Resultados e Discussões
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Resultados-e-Discussões"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Apresenta-se neste capítulo os resultados obtidos através das análises por
+ cromatografia líquida, cromatografia gasosa acoplada a espectometria de
+ massas e gasosa com detecção de ionização em chama e a discussão destes
+ resultados em relação a trabalhos já publicados na literatura.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{
+\backslash
+thechapter Resultados e Análises} 
+\backslash
+rhead{
+\backslash
+thepage} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Porcentagem das Frações de Compostos no Óleo Derramado
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Frações do Óleo
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Resultados"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Após ser derramado, logo nos estágios iniciais, o óleo sofre diversos processos
+ intempéricos resultando na perda de seus componentes mais leves e, consequentem
+ente, aumentando a sua viscosidade 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lima2017"
+literal "true"
+
+\end_inset
+
+.
+ Os principais compostos que são afetados por esse processo são os hidrocarbonet
+os aromáticos de baixo peso molecular, como os BTEX (benzeno, tolueno, etilbenze
+no e xileno), e 
+\emph on
+n
+\emph default
+-alcanos também de menor peso molecular 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wang2006a,Wang2016"
+literal "true"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+A Tabela 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Porcentagens-das-concentrações"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ mostra as porcentagens das frações de compostos saturados, aromáticos e
+ polares (NSO) obtidas após a análise por cromatografia líquida das amostras
+ coletadas nas praias de Arraial do Cabo (AC) e de Armação dos Búzios (AB).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Porcentagens das concentrações de compostos saturados, aromáticos e polares
+ (NSO) das amostras de 
+\emph on
+tarballs
+\emph default
+ coletadas das praias de Arraial do Cabo e Armação dos Búzios.
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Porcentagens-das-concentrações"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/Tabela Cromatografia Líquida.JPG
+	lyxscale 70
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A partir das porcentagens de cada fração, foi possível traçar o diagrama
+ ternário contendo as amostras das duas praias (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Diagrama-ternário-contendo"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ As amostras de Arraial do Cabo estão localizadas na região mais próxima
+ do centro do diagrama (área circulada) o que indica uma menor porcentagem
+ de compostos polares, ao contrário das amostras de Armação dos Búzios,
+ as quais encontram-se mais próximas do vértice do diagrama onde estão represent
+adas as amostras que contém maior concentração de compostos polares (NSO).
+ Portanto, é possível concluir que por se tratarem de óleos da mesma origem,
+ as amostras de Armação dos Búzios perderam uma maior quantidade de compostos
+ de menor peso molecular (como 
+\emph on
+n
+\emph default
+-alcanos e aromáticos), com aumento relativo de polares, em comparação com
+ as amostras coletadas na praia de Arraial do Cabo.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/diagrama.JPG
+	lyxscale 60
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Diagrama ternário contendo as porcentagens de compostos saturados, aromáticos
+ e polares (NSO) das amostras AC-1, AC-2, AC-3, coletadas na Prainha, Arraial
+ do Cabo, e AB-1, AB-2, AB-3 coletadas na Praia Brava em Armação dos Búzios.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Diagrama-ternário-contendo"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Avaliação do Índice de Intemperismo de 
+\emph on
+n
+\emph default
+-alcanos e Isoprenóides
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Índice de Intemperismo
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Analise-Resultados"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A análise do perfil dos 
+\emph on
+n
+\emph default
+-alcanos é uma ferramenta amplamente utilizada para avaliar o grau de intemperis
+mo sofrido pelo óleo derramado.
+ A partir das informações obtidas pela distribuição dos 
+\emph on
+n
+\emph default
+-alcanos e isoprenóides é possível fazer esta avaliação 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Barakat2001"
+literal "true"
+
+\end_inset
+
+.
+ Após a quantificação das concentrações de 
+\emph on
+n
+\emph default
+-alcanos de 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{17}$
+\end_inset
+
+ a 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{31}$
+\end_inset
+
+ e isoprenóides (Pristano e Fitano) a partir da análise por CG-DIC, foi
+ possível fazer o cálculo da média, do desvio padrão e do índice de intemperismo
+ (
+\begin_inset Formula $Índice\;de\;Intemperismo=$
+\end_inset
+
+
+\begin_inset Formula $\Sigma[n$
+\end_inset
+
+-
+\begin_inset Formula $C_{23}$
+\end_inset
+
+
+\emph on
+ até
+\emph default
+ 
+\begin_inset Formula $n$
+\end_inset
+
+-
+\begin_inset Formula $C_{31}]$
+\end_inset
+
+
+\begin_inset Formula $/$
+\end_inset
+
+
+\begin_inset Formula $\Sigma[n$
+\end_inset
+
+-
+\begin_inset Formula $C_{17}$
+\end_inset
+
+ 
+\emph on
+até
+\emph default
+ 
+\begin_inset Formula $n$
+\end_inset
+
+-
+\begin_inset Formula $C_{22}$
+\end_inset
+
+
+\begin_inset Formula $]$
+\end_inset
+
+, incluindo Pr e F) para as amostras de Arraial do Cabo e Armação dos Búzios
+ conforme Tabela 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Concentrações-de-n-alcanos,"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ e Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Gráfico n alcanos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ Os cromatogramas para todas as amostras encontram-se no Apêndice A.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Concentrações de 
+\emph on
+n
+\emph default
+-alcanos, isoprenóides (mg/g de óleo) e valores do índice de intemperismo
+ calculado para as amostras de 
+\emph on
+tarballs
+\emph default
+ coletadas de Arraial do Cabo e Armação dos Búzios.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Concentrações-de-n-alcanos,"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/Tabela n-alcanos.JPG
+	lyxscale 75
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+*Índice de Intemperismo: 
+\begin_inset Formula $\Sigma(n$
+\end_inset
+
+-
+\begin_inset Formula $C_{23}$
+\end_inset
+
+
+\emph on
+ até
+\emph default
+ 
+\begin_inset Formula $n$
+\end_inset
+
+-
+\begin_inset Formula $C_{31})$
+\end_inset
+
+
+\begin_inset Formula $/$
+\end_inset
+
+
+\begin_inset Formula $\Sigma(n$
+\end_inset
+
+-
+\begin_inset Formula $C_{17}$
+\end_inset
+
+ 
+\emph on
+até
+\emph default
+ 
+\begin_inset Formula $n$
+\end_inset
+
+-
+\begin_inset Formula $C_{22}$
+\end_inset
+
+
+\begin_inset Formula $)$
+\end_inset
+
+ incluindo Pr e F.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Os 
+\emph on
+n
+\emph default
+-alcanos de 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{17}$
+\end_inset
+
+ até 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{28}$
+\end_inset
+
+ apresentaram maior concentração nas amostras coletadas da praia de Arraial
+ do Cabo.
+ Com a concentração média de pristano ficando em torno de 0,20 mg/g de óleo
+ nas amostras de Arraial do Cabo e uma média de 0,08 mg/g de óleo obtida
+ a partir das amostras de Armação dos Búzios.
+ A concentração média de fitano também teve comportamento similar com um
+ valor de 0,33 mg/g de óleo para Arraial do Cabo e 0,15 mg/g de óleo para
+ Armação dos Búzios.
+ Os 
+\emph on
+n
+\emph default
+-alcanos de 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{20}$
+\end_inset
+
+ até 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{23}$
+\end_inset
+
+ apresentaram as maiores médias para as amostras coletadas em Arraial do
+ Cabo, com valores que variam de 0,83 a 0,93 mg/g de óleo, já para os 
+\emph on
+n
+\emph default
+-alcanos de Armação dos Búzios as maiores concentrações variaram de 0,53
+ a 0,67 mg/g de óleo (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Gráfico n alcanos"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ Lima e colaboradores (2023) observaram em seu estudo a presença de 
+\emph on
+n
+\emph default
+-alcanos de cadeia longa em maior abundância do 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{14}$
+\end_inset
+
+ ao 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{37}$
+\end_inset
+
+, enquanto no presente estudo os 
+\emph on
+n
+\emph default
+-alcanos que tiveram maior abundância estão entre 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{18}$
+\end_inset
+
+ e 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{25}$
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lima2023"
+literal "true"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/n-alcanos e isoprenoides.JPG
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Distribuição das concentrações médias e respectivos desvios padrões de 
+\emph on
+n
+\emph default
+-alcanos (
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{17}$
+\end_inset
+
+ a 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{31}$
+\end_inset
+
+) e isoprenóides pristano e fitano para as amostras de 
+\emph on
+tarballs 
+\emph default
+coletadas das praias de Arraial do Cabo e Armação dos Búzios.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Gráfico n alcanos"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Tais resultados, indicaram que as amostras de Arraial do Cabo estão menos
+ intemperizadas, mantendo uma maior concentração para 90% dos compostos
+ avaliados, já que as amostras de Armação dos Búzios só indicaram maiores
+ concentrações nos 
+\emph on
+n
+\emph default
+-alcanos 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{29}$
+\end_inset
+
+ e 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{30}$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+As concentrações médias de 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{17}$
+\end_inset
+
+/Pr e 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{18}$
+\end_inset
+
+/F para as amostras de Arraial do Cabo foram de 0,82 e 2,52, e para Armação
+ dos Búzios, de 0,62 e 2,76 respectivamente.
+ Em 2000, Wang e colaboradores avaliaram um óleo proveniente de um derrame
+ no Quebec.
+ Os autores estudaram 3 amostras nas quais os valores das razões de 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{17}$
+\end_inset
+
+/Pr e de 
+\emph on
+n
+\emph default
+-
+\begin_inset Formula $C_{18}$
+\end_inset
+
+/F era maiores que os valores das razões observados para as amostras estudadas
+ no presente trabalho.
+ Tal diferença pode ser justificada pois o derrame de óleo se deu em um
+ rio numa região fria, desta forma, as amostras de óleo não sofreram de
+ forma excessiva as ações intempéricas 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wang2001"
+literal "true"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Os valores médios da razão Pristano/Fitano das amostras de 
+\emph on
+tarballs
+\emph default
+ coletadas das duas praias foram de 0,61 para Arraial do Cabo e 0,54 para
+ Armação dos Búzios.
+ Resultados similares também foram observados por Azevedo e colaboradores
+ em um estudo forense envolvendo óleos derramados em praias do estado do
+ Ceará no Nordeste brasileiro, com valores variando de 0,38 a 0,45 para
+ a razão Pristano/Fitano 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Azevedo2022"
+literal "true"
+
+\end_inset
+
+.
+ Com os valores médios obtidos para as razões de Pr/F para as amostras de
+ 
+\emph on
+tarballs
+\emph default
+ coletadas (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:indice pr/f"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+), nota-se que houve degradação preferencial do Pr em relação ao F nas amostras
+ de Armação dos Búzios, indicando novamente a remoção preferencial dos compostos
+ de menor peso molecular nessas amostras.
+ Sendo assim, é possível sugerir que as amostras de Armação dos Búzios ficaram
+ mais tempo expostas aos efeitos intempéricos.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/índice de intemperismo2.JPG
+	lyxscale 60
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Valores médios do índice de intemperismo e da razão pristano/fitano (Pr/F)
+ obtidos para as amostras de 
+\emph on
+tarballs
+\emph default
+ coletadas nas praias de Arraial do Cabo e Armação dos Búzios.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:indice pr/f"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Nota-se que a média referente aos índices de intemperismo para as amostras
+ de Armação dos Búzios (AB-1, AB-2 e AB-3) foi de 1,67 e para as amostras
+ coletadas em Arraial do Cabo (AC-1, AC-2 e AC-3) foi de 1,15, representando
+ uma diminuição de 31,1%, quando comparado com as amostras de Armação dos
+ Búzios (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:indice pr/f"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ Barakat e colaboradores realizaram um experimento com um óleo degradado
+ proveniente de Al-Alamein, Egito.
+ Neste experimento, foi constatado que em duas amostras caracterizadas como
+ “
+\emph on
+Tarball
+\emph default
+ preto e rígido” e “
+\emph on
+Tarball
+\emph default
+ preto e pegajoso” ao se aplicar o seguinte Índice de Intemperismo
+\begin_inset Formula $=$
+\end_inset
+
+
+\begin_inset Formula $\Sigma(n$
+\end_inset
+
+-
+\begin_inset Formula $C_{23}$
+\end_inset
+
+
+\emph on
+ até
+\emph default
+ 
+\begin_inset Formula $n$
+\end_inset
+
+-
+\begin_inset Formula $C_{34})$
+\end_inset
+
+
+\begin_inset Formula $/$
+\end_inset
+
+
+\begin_inset Formula $\Sigma(n$
+\end_inset
+
+-
+\begin_inset Formula $C_{11}$
+\end_inset
+
+ 
+\emph on
+até
+\emph default
+ 
+\begin_inset Formula $n$
+\end_inset
+
+-
+\begin_inset Formula $C_{22}$
+\end_inset
+
+
+\begin_inset Formula $)$
+\end_inset
+
+, os valores obtidos foram 1,55 e 1,31, respectivamente 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Barakat2001"
+literal "true"
+
+\end_inset
+
+.
+ Este resultado corrobora com aqueles observados para as amostras das duas
+ praias, com amostras de Arraial do Cabo tendo inicialmente um aspecto mais
+ fresco e viscoso ao chegar ao laboratório 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:amostras"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+b) 
+\end_layout
+
+\end_inset
+
+e as amostras de Armação dos Búzios apresentando um aspecto mais seco e
+ rígido
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:amostras"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+a)
+\end_layout
+
+\end_inset
+
+.
+ Pode-se inferir, mais uma vez que as amostras de Armação dos Búzios estiveram
+ expostas por mais tempo aos agentes intempéricos, isto é, passaram mais
+ tempo derramadas no mar.
+ 
+\end_layout
+
+\begin_layout Section
+Avaliação do Intemperismo Sobre os Compostos Biomarcadores Saturados
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Avaliação de Biomarcadores
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Analise-Resultados-1"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Os biomarcadores saturados encontrados no petróleo são amplamente utilizados
+ para identificar a origem do óleo derramado no meio ambiente pela sua correlaçã
+o com fontes suspeitas, uma vez que estes compostos são bastante resistentes
+ a efeitos de intemperismo 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lima2021"
+literal "true"
+
+\end_inset
+
+.
+ Neste estudo, 4 razões diagnósticas foram avaliadas a partir dos cromatogramas
+ das famílias de biomarcadores saturados terpanos tricíclicos e pentacíclicos
+ (m/z 191) e esteranos (m/z 217), por CG-EM (Tabela 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Razões-diagnósticas-de"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+ Os cromatogramas obtidos do íon-fragmento m/z 191 encontram-se no Apêndice
+ B e os obtidos do íon-fragmento m/z 217 encontram-se no Apêndice C.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Valores médios das razões diagnósticas de Terpano Tricíclico 
+\begin_inset Formula $C_{21}$
+\end_inset
+
+/ Terpano Tricíclico 
+\begin_inset Formula $C_{23}$
+\end_inset
+
+, Terpano Tricíclico 
+\begin_inset Formula $C_{20}$
+\end_inset
+
+/ Terpano Tricíclico 
+\begin_inset Formula $C_{23}$
+\end_inset
+
+, porcentagem do esterano 
+\begin_inset Formula $C_{29}$
+\end_inset
+
+ (S+R) e 
+\begin_inset Formula $C_{30}$
+\end_inset
+
+ Hopano/Colestano 
+\begin_inset Formula $C_{27}$
+\end_inset
+
+ 
+\begin_inset Formula $\alpha\alpha\alpha$
+\end_inset
+
+ (S+R) das amostras de 
+\emph on
+tarballs
+\emph default
+ coletadas nas praias de Armação dos Búzios e de Arraial do Cabo.
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Razões-diagnósticas-de"
+
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/tabela biomarcadores.JPG
+	lyxscale 75
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:grafico biomarcadores"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ mostra o gráfico com os resultados das razões e seus respectivos desvios
+ padrões para as amostras de ambas as praias sendo feito um comparativo
+ entre as de Armação dos Búzios (AB-1, AB-2 e AB-3) e de Arraial do Cabo
+ (AC-1, AC-2 e AC-3).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/Biomarcadores Saturados.JPG
+	lyxscale 60
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Valores médios das razões diagnósticas de biomarcadores saturados para as
+ amostras de 
+\emph on
+tarballs
+\emph default
+ coletadas das praias de Arraial do Cabo e Armação dos Búzios.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:grafico biomarcadores"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Através da avaliação da porcentagem dos esteranos 
+\begin_inset Formula $C_{29}$
+\end_inset
+
+, foi possível observar um valor médio mais elevado para Arraial do Cabo
+ (39,41%), quando comparado aquele de Armação dos Búzios (36,89%), o que
+ indica maior preservação por parte das amostras de Arraial do Cabo e consequent
+emente menor preservação das amostras de Armação dos Búzios.
+ Tais valores elevados também foram observados por Lima e colaboradores
+ em seus estudos com amostras de óleo provenientes da Bacia de Campos, cuja
+ média foi de 49,32% 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lima2017"
+literal "true"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Para a família dos terpanos tricíclicos, os resultados encontrados para
+ a razão 
+\begin_inset Formula $Tr_{21}$
+\end_inset
+
+/ 
+\begin_inset Formula $Tr_{23}$
+\end_inset
+
+ foram de 0,67 para as amostras de Arraial do Cabo e 0,58 para Armação dos
+ Búzios mostrando maior resistência do 
+\begin_inset Formula $Tr_{23}$
+\end_inset
+
+ em comparação ao 
+\begin_inset Formula $Tr_{21}$
+\end_inset
+
+ nas amostras mais degradadas (Armação dos Búzios), visto que a razão diminuiu.
+ Resultados similares, 0,52 e 0,66, foram encontrados em experimentos de
+ simulação de derrames no mar que avaliaram o intemperismo sobre amostras
+ de 
+\emph on
+tarballs
+\emph default
+ provenientes da Bacia de Campos 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Lima2017"
+literal "true"
+
+\end_inset
+
+.
+ Segundo Jia e colaboradores, o terpano 
+\begin_inset Formula $Tr_{23}$
+\end_inset
+
+ normalmente é o mais resistente aos processos intempéricos, sendo encontrado
+ em maior abundância que seus homólogos até mesmo em amostras de arenitos
+ asfálticos 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Jia2010"
+literal "true"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Nota-se que as amostras de 
+\emph on
+tarballs
+\emph default
+ de ambas as localidades, de um modo geral, sofreram poucas alterações,
+ especialmente quando se avaliam as porcentagens do esterano 
+\begin_inset Formula $C_{29}$
+\end_inset
+
+ (S+R) e a razão de 
+\begin_inset Formula $C_{30}$
+\end_inset
+
+ Hopano/Colestano 
+\begin_inset Formula $C_{27}$
+\end_inset
+
+ 
+\begin_inset Formula $\alpha\alpha\alpha$
+\end_inset
+
+ (S+R).
+ Este resultado está de acordo com pesquisas anteriores, que relataram que
+ os biomarcadores saturados são muito resistentes aos efeitos do intemperismo
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Esquinas2017,Munoz1997,Wang2013,Wang2001,Lima2021"
+literal "true"
+
+\end_inset
+
+.
+ Entretanto, as amostras de Arraial do Cabo mostraram valores um pouco maiores
+ para as razões entre os terpanos tricíclicos (Tabela 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Razões-diagnósticas-de"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:grafico biomarcadores"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+), corroborando com resultados anteriores que indicaram que estas amostras
+ estavam mais preservadas e, consequentemente, passaram menos tempo expostas
+ aos processos intempéricos após o derrame, tendo atingido a praia mais
+ cedo do que aquelas coletadas em Armação dos Búzios.
+ 
+\end_layout
+
+\begin_layout Section
+Avaliação dos Eventos Meteorológicos Mais Influentes Sobre a Trajetória
+ e o Intemperismo do Óleo Derramado 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Avaliação Meteorológica
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Analise-Resultados-2"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Segundo o boletim pós-evento emitido pelo Serviço Meteorológico Marinho
+ (SMM), Centro de Hidrografia da Marinha (CHM) e Marinha do Brasil, a tempestade
+ durou entre os dias 23 e 28 de março de 2019, tendo aproximadamente 108
+ h de duração com vento máximo de 60 nós no dia 25 e a maior altura de onda
+ de 8,45 m registrada no dia 27 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SMM2019"
+literal "true"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Após a passagem de um sistema frontal sobre o oceano, um centro de baixa
+ pressão se formou na área ECHO, próximo ao litoral sul do estado da Bahia,
+ na noite do dia 22 de março.
+ Na manhã do dia 23, o ciclone apresentou um núcleo quente e profundo em
+ sua estrutura vertical, configurando-o como um ciclone tropical, sendo
+ a ele atribuída a classificação de Depressão Tropical (DT).
+ O sistema se manteve quase-estacionário ao longo deste dia, atuando sobre
+ a área ECHO 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SMM2019"
+literal "true"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Na manhã do dia 24, devido a intensificação dos ventos, o ciclone foi classifica
+do como Tempestade Tropical (TT) de maior intensidade, sendo atribuído o
+ nome “Iba”.
+ Ao longo deste dia, a TT Iba moveu-se para sul, adentrando a área DELTA
+ durante a noite.
+ A TT Iba seguiu deslocando-se para sul ao longo do dia 25 de março e seguiu
+ para sudeste no dia 26, afastando-se do litoral, e atuando sobre o leste
+ da área DELTA.
+ Verificou-se que devido ao enfraquecimento dos ventos, o sistema foi reclassifi
+cado como DT na manhã do dia 27.
+ Neste dia, a DT Iba encontrava-se no limite entre as áreas DELTA e SUL
+ OCEÂNICA, tendo apresentado pouco deslocamento.
+ Ao longo do dia 28, a então DT Iba perdeu suas características tropicais,
+ remanescendo apenas como um sistema de baixa pressão na divisa entre as
+ áreas DELTA e SUL OCEÂNICA 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SMM2019"
+literal "true"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/mapa iba, p-53.JPG
+	lyxscale 70
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mapa da trajetória do ciclone Iba gerado na plataforma do Google Earth conforme
+ posições geográficas informadas pelo SMM, intervaladas a cada 12 horas.
+ Legenda: Dias 23, 24, 27 de março (27MAR2019-12Z) indicam “Depressão Tropical”.
+ Dias 25, 26 e 27 de março (27MAR2019-00Z) indicam “Tempestade Tropical”.
+ Dia 28 de março indica “Baixa pressão”.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:ibasmm"
+
+\end_inset
+
+Fonte: Adaptado de SMM (2019)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+De acordo com a trajetória apresentada na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:ibasmm"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, o sistema tropical atuou inicialmente sobre a área ECHO, na manhã do dia
+ 23 de março, formando-se a 180 milhas náuticas (333 km) a leste do litoral
+ sul do estado da Bahia.
+ O ciclone permaneceu sobre esta área, com pouco deslocamento, até a manhã
+ do dia 25, quando adentrou a área DELTA.
+ Em seguida, ainda nesta área, o ciclone tropical deslocou-se para sul/sudeste
+ até a noite do dia 27.
+ No geral, o sistema apresentou deslocamento médio para sul, vindo a decair
+ a partir da noite do dia 27, a cerca de 333 milhas náuticas (618 km) do
+ litoral do estado do Rio de Janeiro 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "SMM2019"
+literal "true"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Imagem-de-satélite"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ observa-se a imagem da tempestade tropical Iba, registrada pelo site do
+ Centro de Previsão de Tempo e Estudos Climáticos (CPTEC), estando a mesma
+ localizada sobre o limite norte da Bacia de Campos, próxima à plataforma
+ P-53.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/ibaseta.JPG
+	lyxscale 85
+	scale 85
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Imagem de satélite da tempestade Iba retirada do site do CPTEC no dia 25
+ de março às 04h15min, com a indicação do sentido horário dos ventos gerados
+ pela tempestade e a localização aproximada da plataforma P-53.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Imagem-de-satélite"
+
+\end_inset
+
+ Fonte: Adaptado de CPTEC (2019)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Conforme foi informado no boletim da ANP, o derrame de 122 m³ de óleo da
+ plataforma P-53 do Campo de Marlim Leste na Bacia de Campos, RJ, ocorreu
+ entre os dias 24 e 25 de março de 2019.
+ Na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Mapa-elaborado-pela"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ é possível observar o mapa, feito pela Coordenação de Produção de Petróleo
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ e Gás, Coordenação-Geral de Licenciamento Ambiental de Empreendimentos
+ Marinhos e Costeiros e o 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ (
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+COPROD/CGMAC/IBAMA), e a imagem de satélite mostrando a feição oleosa da
+ mancha com trajetória em sentido horário, à deriva entre os dias 25 e 26
+ de março de 2019, com indicativo de origem de vazamento de óleo na plataforma
+ P-53.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/Mancha IBAMA.JPG
+	lyxscale 75
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mapa elaborado pela COPROD/CGMAC/IBAMA com indicativo de origem de vazamento
+ de óleo na plataforma P-53.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Mapa-elaborado-pela"
+
+\end_inset
+
+Fonte: CPROD, CGMAC e IBAMA (2019)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Entre os dias 3 e 4 de abril de 2019 a mancha chegou até as praias e os
+ resultados da análise geoquímica confirmaram os resultados da modelagem
+ matemática proposta pelo Prof.
+ Paulo César Rosman (COPPE/UFRJ) 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rosman2016"
+literal "true"
+
+\end_inset
+
+.
+ Na simulação feita por Rosman (2016) (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:rosman"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+), as primeiras praias a receber óleo em uma situação de derrame na região
+ de exploração e produção de petróleo na Bacia de Campos, seriam Arraial
+ do Cabo, Armação dos Búzios e Cabo Frio, respeitando as seguintes premissas:
+\end_layout
+
+\begin_layout Itemize
+Derrame de 800 m³/dia de óleo, gerando uma mancha de 210 x 110 km; 
+\end_layout
+
+\begin_layout Itemize
+Velocidade de deslocamento da mancha de no máximo 3 km/h; 
+\end_layout
+
+\begin_layout Itemize
+Correntes oceânicas perpendiculares e não tangentes ao litoral (como é o
+ caso da Corrente do Brasil); 
+\end_layout
+
+\begin_layout Itemize
+Condições climáticas com vento constante, típico da chegada de frente fria;
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/Mapa RJ - Modelagem.jpeg
+	lyxscale 60
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mapa do Estado do Rio de Janeiro contendo a probabilidade de algumas praias
+ serem atingidas em caso de derrames gerados na Bacia de Campos.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:rosman"
+
+\end_inset
+
+Fonte: Adaptado do Jornal 
+\begin_inset Quotes eld
+\end_inset
+
+O Globo
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Embora a presença da Tempestade Tropical Iba tenha provocado uma variação
+ de alguns desses fatores, os resultados das análises geoquímicas do nível
+ de intemperismo das amostras de 
+\emph on
+tarballs
+\emph default
+ coletadas confirmaram o modelo.
+ Esta modelagem se mostrou confiável ao determinar que o município de Arraial
+ do Cabo seria o primeiro a receber o toque de óleo em suas praias (30%
+ de chance) e que o município de Armação dos Búzios receberia o óleo posteriorme
+nte com 12% de chance.
+ 
+\end_layout
+
+\end_body
+\end_document

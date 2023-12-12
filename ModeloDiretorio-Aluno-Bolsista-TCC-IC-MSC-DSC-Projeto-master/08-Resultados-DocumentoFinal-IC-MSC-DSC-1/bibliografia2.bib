@@ -1,0 +1,986 @@
+% Encoding: ISO-8859-1
+@String{LENEP  = {Laboratório de Engenharia e Exploração de Petróleo}}
+%--------------------------------------------------------------------
+% NAME: andre.bib (18/02/2002)
+%
+% O que é um arquivo BiBTeX?
+% É um arquivo em modo texto (tipo ASCII), que inclui referências completas para os
+% trabalhos (artigos/relatórios/teses/etc) a serem citados em sua monografia/dissertação/tese.
+%
+% Porque usar?
+% A vantagem de usar uma base de dados com as referencias bibliográficas
+% (como este arquivo), é que seu editor científico (ex: o LyX) 
+% poderá gerar as citações nos mais variados formatos acadêmicos.
+%
+% Como faço para usar?
+% No caso do LyX(2.0.2), você insere a base bibliográfica usando:
+% Lyx->Inserir->Listas e Indices->Bibliografia BiBTeX
+%
+% INSTRUÇÕES:
+% 0- Use o find (crtl-s ##)  para localizar as diferentes seções desta base de dados
+%    para próximo ítem basta digitar ctrl-s novamente (no emacs!).
+% 1-Use o emacs ou um editor simples para editar este arquivo
+%   Pode acentuar normalmente, usando çá,,; 
+
+% 2-Use o emacs (menu BIBTEX) para verificar a consistencia das entradas
+% Se tiver alguma inconsistência o emacs deve informar.
+
+% 3-Use o programa bibtool para gerar saída formatada.
+% ex: bibtool bibliografia
+
+% 4-Use as entradas normalmente no Lyx ou em outro editor tex.
+
+% 5-Se estiver no GNU/Linux, verifique se o arquivo .bib esta no formato do Unix. 
+% Use o programa dos2unix para converter arquivos do dos/windows para o GNU/Linux.
+% Use o programa unix2dos para converter arquivos do GNU/Linux para dos/windows.
+
+%   Para eliminar caracteris iso, e deixar somente ASCII, use o bibtool.
+%     bibtool -r iso2tex -i iso.bib -o ascii.bib
+
+%  6- Codificação de caracteres. Este arquivo deve ser salvo com a Codificação ISO-8859-1
+%  que é o latin. Se salvar com outra Codificação os caracteres acentuados podem ficar errados.
+
+%  7- Note neste modelo que as CHAVES não tem espaço nem usam acentos
+%  Exemplo:
+%  mastersthesis{adb-mestrado, 
+%  e jamais 
+%  mastersthesis{adb mestrado,
+
+
+%--------------------------------------------------------------------
+%--------------------------------------------------------------------
+% Para facilitar a localizacao das chaves, defina um padrao, como exemplo:
+% adb    - artigos pessoais
+% imgan  - artigos de análise de imagem
+% pm     - artigos sobre meios porosos
+% rec    - artigos reconstrução
+% perc   - artigos percolação 
+% perm   - artigos permeabilidade
+% me     - artigos multi-escala
+% prob   - artigos probabilidade, processos estocásticos
+% microt - artigos micro tomografia
+% numan  - artigos sobre métodos numéricos 
+% math   - artigos matemáticos
+% sl     - software livre
+% prog   - artigos/manuais programação
+% hst    - artigos histerese
+% prog-cpp
+% prog-HOWTO
+% prog-linux
+% prog-uml
+% prog-paralela
+% prog-xml
+% prog-interface
+%--------------------------------------------------------------------
+
+% Exemplos:
+%  author =       "W. W. Howells",
+%  author =       "G. B. Johnson and W. W. Howells and A. N. Other",
+%  author =       "Firstname Jones and Firstname Norman and Firstname Hazel and Firstname Robinson",
+%  author =       "sobrenome, nome",
+% Para preservar, isto é, manter um nome use {Nome}
+
+% Definição de strings
+@string{LMPT   = {Laboratório de Meios Porosos e Propriedades Termofísicas}}
+@String{UENF   = {Universidade Estadual do Norte Fluminense}}
+@String{UFSC   = {Universidade Federal de Santa Catarina}}
+
+%--------------------------------------------------------------------
+
+
+%--------------------------------------------------------------------
+% ## MESTRADO,  DOUTORADO, CONCURSOS  Andre
+%--------------------------------------------------------------------
+@PhdThesis{adb-tese,
+  author = 	 {André Duarte Bueno},
+  title = 	 {Estudo Geométrico das Representações Tridimensionais da Estrutura Porosa e Grafo de 
+                  Conexão Serial Para a Determinação da Permeabilidade Intrínseca de Rochas-Reservatório de Petróleo},
+  school = 	 {UFSC},
+  year = 	 {2001},
+  month = 	 {8},
+  key = 	 {rec-adb-tese}
+}
+
+% incluir memorial UENF
+% incluir projeto UENF
+
+@mastersthesis{adb-mestrado,
+  author	= {André Duarte Bueno},
+  title		= {Transferência de Calor e Umidade em Telhas:
+		  Simulação e Análise Experimental},
+  school	= {Programa de Pós-Graduação em Engenharia Civil da Universidade Federal de Santa Catarina},
+  year		= {1994},
+  type		= {Tese de Mestrado},
+  address	= {Florianópolis},
+  month		= {agosto},
+  note		= {Nota},
+  key		= {Transferência de Calor, Telhas, tiles, meios porosos, transport in porous media}
+}
+
+
+% Monografia concurso
+@TechReport{adb-monografia-ufsc,
+  author = 	 {André Duarte Bueno},
+  title = 	 {Método de Reconstrução da Gaussiana Truncada 2: Análise das Representações Obtidas e Resultados},
+  institution =  {UFSC},
+  year = 	 {2001},
+  key = 	 {rec-adb-monografia-ufsc}
+}
+
+%--------------------------------------------------------------------
+% ## Artigos em revistas Andre
+%--------------------------------------------------------------------
+@article{adb-thirdmasonry,
+  author	= {André Duarte Bueno and Paulo Cesar Philippi and Roberto Lamberts},
+  title		= {Influence of Water Vapour Sorption on the Thermal
+		  Behavior of Mortar Samples},
+  journal	= {Proceedings of the Third Internacional Masonry Conference},
+  year		= {1994},
+  Address	= {London},
+  pages		= {2-54},
+ month		= {March}
+}
+
+%--------------------------------------------------------------------
+% ## Artigos em congressos 
+%--------------------------------------------------------------------
+@inproceedings{adb-zonaconforto,
+  author	= {André Duarte Bueno and  Roberto Lamberts},
+  title		= {Proposta de Zona de Conforto na Carta Psicométrica},
+  publisher	= {Anais do I Encontro Nacional de Normalização  Ligada ao Uso Racional de Energia e ao Conforto Ambiental em Edificações},
+  address	= {Florianópolis},
+  year		= {1991}
+}
+
+%--------------------------------------------------------------------
+% ## Manuais 
+%--------------------------------------------------------------------
+@manual{adb-prog-apostilaprogramacao-v03,
+  author	= {André Duarte Bueno},
+  title		= {Apostila de Programação Orientada a Objeto},
+  organization	= {UFSC-EMC-Laboratório de Meios Porosos e Propriedades  Termofísicas},
+  address	= {Florianópolis},
+  year		= {1997}
+}
+
+%--------------------------------------------------------------------
+% ## Não publicado 
+%--------------------------------------------------------------------
+@unpublished{adb-prog-simulacaotelha,
+  author	= {André Duarte Bueno and Paulo Cesar Philippi},
+  title		= {Simulações da Transferência de Calor e Umidade, em Telhas Expostas ao Meio Ambiente},
+  year		= {1996},
+  key		= {Heat and Mass Transfer in Tiles, porous media, mass  transfer},
+  note          = {Incompleto}
+}
+
+%--------------------------------------------------------------------
+% ## Relatório Andre
+%--------------------------------------------------------------------
+
+@techreport{adb-rel2003,
+  author	= {Fernando S. Moraes and André Duarte Bueno},
+  title		= {Relatório Individual do Projeto: Inferência Sismica Elástica Aplicada a Problemas de Caracterização de Reservatórios},
+  institution	= {Laboratório De Engenharia e Exploração de Petróleo- LENEP},
+  year		= {2003},
+  type		= {Relatório},
+  number	= {1}
+}
+
+%--------------------------------------------------------------------
+% Livro 
+%--------------------------------------------------------------------
+@Book{adb-prog-livroCpp,
+  author = 	 {André Duarte Bueno},
+  title = 	 {Programação Orientada a Objeto com C++ - Aprenda a Programar em Ambiente Multiplataforma com Software Livre},
+  publisher = 	 {Novatec},
+  year = 	 {2003},
+  address = 	 {São Paulo}
+}
+
+%--------------------------------------------------------------------
+% ## Teses
+%--------------------------------------------------------------------
+
+@PhDThesis{tese-nathan,
+  author	= {Nathan  Mendes},
+  title		= {Modelos Para Previsão da Transferência de Calor e de Umidade em Elementos Porosos de Edificações},
+  school	= {Universidade Federal de Santa Catarina, Programa de Pós-Graduação em Engenharia Mecânica},
+  year		= {1997},
+  type		= {Tese de Doutoramento},
+  address	= {Florianópolis},
+  month		= {8}
+}
+
+%--------------------------------------------------------------------
+% Anais de Congressos
+%--------------------------------------------------------------------
+
+@InProceedings{pm-brakel-mercurypor,
+  author = 	 {V. J. Brakel and S Modry and M Svata},
+  title = 	 {Mercury Porosimetry: State of the Art},
+  pages = 	 {p.1},
+  year = 	 {1981},
+  publisher = 	 {Powder Technology},
+  volume = 	 {v.29}
+}
+
+%--------------------------------------------------------------------
+% Artigos
+%--------------------------------------------------------------------
+@Article{perc-ioannidis-chatzis,
+  author	= {M. Ioannidis and I. Chatzis},
+  title		= {Network Modeling of Pore Structure and Transport Properties of Porous Media},
+  journal	= {Chem. Eng. Sci},
+  volume	= {48},
+  pages		= {.951-972},
+  year		= {1993}
+}
+
+%--------------------------------------------------------------------
+% ## Assunto dos artigos abaixo...
+%--------------------------------------------------------------------
+@Article{Pavel-hysteresys,
+  author = 	 {B.Plohr and D. Marchesin and Pavel Bedrikovetsky and P. Krause},
+  title = 	 {Modeling hysteresys in porous media flow via relaxation},
+  journal = 	 {Computacional Geosciences},
+  year = 	 {2001},
+  volume = 	 {5},
+  pages = 	 {225-256}
+}
+
+
+%--------------------------------------------------------------------
+% ## tex/latex
+%--------------------------------------------------------------------
+
+@Book{SL-latex-lyxtut,
+  author = 	 {Amir Karger},
+  title = 	 {O Tutorial de Lyx},
+  year = 	 {2004},
+  address = 	 {},
+  publisher = 	 {LyX Team - http://www.lyx.org}
+}
+
+@Book{SL-latex-lyxUG,
+  editor = 	 {LyX-Team},
+  title = 	 {The LyX User's Guide},
+  year = 	 {2004},
+  address = 	 {},
+  publisher = 	 {LyX Team - http://www.lyx.org}
+}
+
+@Book{SL-latex-lyxEF,
+  editor = 	 {LyX-Team},
+  title = 	 {Extended LyX Features},
+  year = 	 {2004},
+  address = 	 {},
+  publisher = 	 {LyX Team - http://www.lyx.org}
+}
+
+@Book{SL-latex-demo,
+  author = 	 {Klauss Steding-Jessen},
+  title = 	 {Latex demo: Exemplo com Latex 2e},
+  year = 	 {2000},
+  address = 	 {},
+  publisher = 	 {}
+}
+
+@Book{SL-latex-companion,
+  author = 	 {Michel Grossens and Frank Mittelbach and Alexander Samarin},
+  title = 	 {Latex Companion},
+  year = 	 {1993},
+  address = 	 {New York},
+  publisher = 	 {Addison-Wesley}
+}
+
+@Book{SL-latex-Guide2e,
+  author = 	 {Helmut Kopla e Patrick W. Daly},
+  title = 	 {A Guide to Latex 2e},
+  year = 	 {1995},
+  address = 	 {New York},
+  publisher = 	 {Addison-Wesley},
+  edition = 	 {2}
+}
+
+@Book{SL-latex-donald,
+  author = 	 {Donald E. Knuth},
+  title = 	 {The Texbook},
+  year = 	 {1986},
+  address = 	 {},
+  publisher = 	 {Addison-Wesley}
+}
+
+
+@Book{SL-latex-lamport,
+  author = 	 {Leslie Lamport},
+  title = 	 {Latex - A Document Preparation System},
+  year = 	 {1985},
+  address = 	 {},
+  publisher = 	 {Addison-Wesley}
+}
+
+%--------------------------------------------------------------------
+% ## Referencia online
+%--------------------------------------------------------------------
+@ONLINE{RefOnline,
+author = {Doe, Ringo},
+title = {This is a test entry of type {@ONLINE}},
+month = jun,
+year = {2009},
+url = {"http://www.test.org/doe/"}
+}
+
+@Book{Board2003,
+  author    = {Transportation Research Board and National Research Council},
+  title     = {Oil in the Sea III: Inputs, Fates, and Effects},
+  year      = {2003},
+  publisher = {The National Academies Press},
+  isbn      = {978-0-309-08438-3},
+  doi       = {10.17226/10388},
+  url       = {"https://nap.nationalacademies.org/catalog/10388/oil-in-the-sea-iii-inputs-fates-and-effects"},
+  address   = {Washington, DC}
+}
+
+@Article{Lucas2006,
+  author    = {Lucas, Zoe and MacGregor, Clive},
+  title     = {Characterization and source of oil contamination on the beaches and seabird corpses, Sable Island, Nova Scotia, 1996--2005},
+  year      = {2006},
+  volume    = {52},
+  number    = {7},
+  pages     = {778--789},
+  journal   = {Marine Pollution Bulletin},
+  publisher = {Elsevier}
+}
+
+@Article{Passow2022,
+  author    = {Passow, Uta and Lee, Kenneth},
+  title     = {Future oil spill response plans require integrated analysis of factors that influence the fate of oil in the ocean},
+  year      = {2022},
+  volume    = {36},
+  pages     = {100769},
+  journal   = {Current Opinion in Chemical Engineering},
+  publisher = {Elsevier}
+}
+
+@Article{Clark1977,
+  author  = {Clark, RB},
+  title   = {Biology of benthic organisms. edited by BF Keegan, P. O'Ceidigh \& PJF Boaden. Pergamon Press Oxford (1977).},
+  year    = {1977},
+  volume  = {8},
+  number  = {12},
+  pages   = {287--287},
+  journal = {Marine Pollution Bulletin}
+}
+
+@Article{Chandru2008,
+  author    = {Chandru, Kuhan and Zakaria, Mohamad Pauzi and Anita, Sofia and Shahbazi, Azadeh and Sakari, Mahyar and Bahry, Pourya Shahpoury and Mohamed, Che Abd Rahim},
+  title     = {Characterization of alkanes, hopanes, and polycyclic aromatic hydrocarbons (PAHs) in tar-balls collected from the East Coast of Peninsular Malaysia},
+  year      = {2008},
+  volume    = {56},
+  number    = {5},
+  pages     = {950--962},
+  journal   = {Marine Pollution Bulletin},
+  publisher = {Elsevier}
+}
+
+@Article{Farias2008,
+  author    = {Farias, Cassia O and Hamacher, Claudia and de LR Wagener, Angela and Scofield, Arthur de L},
+  title     = {Origin and degradation of hydrocarbons in mangrove sediments (Rio de Janeiro, Brazil) contaminated by an oil spill},
+  year      = {2008},
+  volume    = {39},
+  number    = {3},
+  pages     = {289--307},
+  journal   = {Organic Geochemistry},
+  publisher = {Elsevier}
+}
+
+@Article{Suneel2013,
+  author    = {Suneel, V and Vethamony, P and Zakaria, MP and Naik, BG and Prasad, KVSR},
+  title     = {Identification of sources of tar balls deposited along the Goa coast, India, using fingerprinting techniques},
+  year      = {2013},
+  volume    = {70},
+  number    = {1-2},
+  pages     = {81--89},
+  journal   = {Marine pollution bulletin},
+  publisher = {Elsevier}
+}
+
+@InProceedings{Gabardo2011,
+  author    = {Gabardo, Irene T and Meniconi, Maria Fátima and Faria, Bias M and Silva, Teresinha A and Cavalcanti, Taciana R and Silva, Gilson C and Gallotta, Fabiana D and N, Angelo Sartori and Paes, Jorge E and Bentz, Cristina M and others},
+  title     = {Lessons learned on oil spill environment impact assessment: 10 years of petrobras experience review},
+  booktitle = {International Oil Spill Conference},
+  year      = {2011},
+  volume    = {2011},
+  number    = {1},
+  pages     = {426}
+}
+
+@TechReport{ANP2016,
+  author = {ANP},
+  title  = {Relatório de Investigação de Incidente: Exsudação e Subsidência Ocorrida no Campo de Frade},
+  year   = {2016},
+  url    = {"https://www.gov.br/anp/pt-br/assuntos/exploracao-e-producao-de-oleo-e-gas/seguranca-operacional/incidentes/relatorios-de-investigacao-de-incidentes-1/arquivos-relatorios-de-investigacao-de-incidentes/campo-de-frade/relatorio-frade-ii_final.pdf"}
+}
+
+@TechReport{ANP2020,
+  author = {ANP},
+  title  = {Relatório de Investigação: Investigação do Acidente na FPSO Cidade do Rio de Janeiro},
+  year   = {2020},
+  url    = {"https://www.gov.br/anp/pt-br/assuntos/exploracao-e-producao-de-oleo-e-gas/seguranca-operacional/incidentes/relatorios-de-investigacao-de-incidentes-1/relatorioinvestigaoFPRJfinal.pdf"}
+}
+
+@TechReport{OILMAP2023,
+  author      = {OILMAP},
+  title       = {OILMAP Manual},
+  institution = {RPS Group},
+  year        = {2023},
+  url         = {"https://www.rpsgroup.com/services/oceans-and-coastal/modelling/oilmap/#Stochastic"},
+  editor      = {RPS Group}
+}
+
+@TechReport{French1995,
+  author      = {French, DP and Mendelsohn, D and Rines, H},
+  title       = {SIMAP oil and Orimulsion fate and effects model},
+  institution = {Society of Environmental Toxicology and Chemistry, Pensacola, FL (United States)},
+  year        = {1995}
+}
+
+@Book{Thomas2004,
+  author    = {Thomas, José Eduardo},
+  title     = {Fundamentos de Engenharia de Petróleo},
+  year      = {2004},
+  publisher = {Interciência}
+}
+
+@Book{Brasil2014,
+  author = {Nilo Do Brasil and Maria Araújo and Elisabeth de Sousa},
+  title  = {Processamento de Petróleo e Gás},
+  year   = {2014},
+  editor = {Grupo GEN}
+}
+
+@Article{Arnold1986,
+  author    = {Arnold, Ken and Stewart, Maurice},
+  title     = {Design of Oil-handling Systems and Facilities},
+  year      = {1986},
+  publisher = {Gulf Publishing Company, Houston, TX}
+}
+
+@TechReport{CONAMA2007,
+  author = {CONAMA},
+  title  = {Resolução nº 39379, de 8 de agosto de 2007. Publicada no DOU nº 153, de 9 de agosto de 2007, Seção 1, páginas 72-73},
+  year   = {2007},
+  url    = {"https://www.cbhdoce.org.br/wp-content/uploads/2018/08/CONAMA_RES_CONS_2007_393.pdf"}
+}
+
+@Article{Reis2019,
+  author       = {Jean dos Reis and Weber Gonçalves},
+  title        = {Análise Sinótica da Tempestade Tropical Iba},
+  journaltitle = {VII Simpósio Internacional de Climatologia - Belém - PA},
+  year         = {2019}
+}
+
+@TechReport{SMM2019,
+  author = {SMM},
+  title  = {Relatório Pós-Evento: Tempestade Tropical Iba},
+  year   = {2019},
+  url    = {"www.marinha.mil.br/chm/dados-do-smm-monitoramento-de-ciclones"}
+}
+
+@Book{Chaudhuri2016,
+  author    = {Chaudhuri, Uttam Ray},
+  title     = {Fundamentals of petroleum and petrochemical engineering},
+  year      = {2016},
+  publisher = {Crc Press}
+}
+
+@Article{Speight2007,
+  author    = {Speight, J},
+  title     = {Liquid fuels from natural gas},
+  year      = {2007},
+  volume    = {153},
+  journal   = {Handbook of alternative Fuel technologies},
+  publisher = {CRC Press}
+}
+
+@Article{Tissot1984,
+  author    = {Tissot, Bernard P and Welte, Dietrich H and Tissot, Bernard P and Welte, Dietrich H},
+  title     = {From kerogen to petroleum},
+  year      = {1984},
+  pages     = {160--198},
+  journal   = {Petroleum formation and occurrence},
+  publisher = {Springer}
+}
+
+@Article{Peters1991,
+  author    = {Peters, KE and Moldowan, JM},
+  title     = {Effects of source, thermal maturity, and biodegradation on the distribution and isomerization of homohopanes in petroleum},
+  year      = {1991},
+  volume    = {17},
+  number    = {1},
+  pages     = {47--61},
+  journal   = {Organic geochemistry},
+  publisher = {Elsevier}
+}
+
+@Article{Wang2006,
+  author    = {Wang, Zhendi and Stout, Scott A and Fingas, Merv},
+  title     = {Forensic fingerprinting of biomarkers for oil spill characterization and source identification},
+  year      = {2006},
+  volume    = {7},
+  number    = {2},
+  pages     = {105--146},
+  journal   = {Environmental Forensics},
+  publisher = {Taylor \& Francis}
+}
+
+@Article{Hunt1997,
+  author    = {Hunt, JM and Huc, AY},
+  title     = {Petroleum geochemistry and geology},
+  year      = {1997},
+  volume    = {137},
+  number    = {3},
+  pages     = {313--314},
+  journal   = {Chemical Geology},
+  publisher = {Amsterdam; New York: Elsevier, 1966-}
+}
+
+@Book{Solomons2008,
+  author    = {Solomons, TW Graham and Fryhle, Craig B},
+  title     = {Organic chemistry},
+  year      = {2008},
+  publisher = {John Wiley \& Sons}
+}
+
+@Book{Peters2007,
+  author    = {Peters, Kenneth E and Walters, Clifford C and Moldowan, J Michael},
+  title     = {The biomarker guide: Volume 1, Biomarkers and isotopes in the environment and human history},
+  year      = {2007},
+  publisher = {Cambridge university press}
+}
+
+@Article{Wang2013,
+  author    = {Wang, Chuanyuan and Gao, Xuelu and Sun, Zhigao and Qin, Zhijiang and Yin, Xiaonan and He, Shijie},
+  title     = {Evaluation of the diagnostic ratios for the identification of spilled oils after biodegradation},
+  year      = {2013},
+  volume    = {68},
+  pages     = {917--926},
+  journal   = {Environmental earth sciences},
+  publisher = {Springer}
+}
+
+@Misc{Wang2006a,
+  author    = {Wang, ZD and Fingas, M and Yang, C and Christensen, JH},
+  title     = {Environmental forensics-contaminant specific guide},
+  year      = {2006},
+  publisher = {Academic Press, New York},
+}
+
+@Article{Portella2017,
+  author       = {Yuri Portella},
+  title        = {Sumário Geológico e Setores em Oferta da Bacia de Campos},
+  journaltitle = {15ª Rodada de Concessões. Rio de Janeiro: Agência Nacional de Petróleo, Gás e Biocombustíveis (ANP),},
+  year         = {2017}
+}
+
+@Report{ANP2018,
+  author = {ANP},
+  title  = {Boletim da Produção de Petróleo e Gás Natural. Rio de Janeiro: Superintendência de Desenvolvimento da Produção},
+  year   = {2018}
+}
+
+@Report{Petrobras2017,
+  author = {Petrobras},
+  title  = {Comunicação: Bacia de Santos},
+  year   = {2017},
+  url    = {"https://www.comunicabaciadesantos.com.br/empreendimento/pesquisa-sismicamaritima.html"},
+}
+
+@Article{Piquet2017,
+  author    = {Piquet, Ros{\'e}lia and Tavares, {\'E}rica and Pess{\^o}a, Jo{\~a}o Monteiro},
+  title     = {Emprego no setor petrol{\'\i}fero: din{\^a}mica econ{\^o}mica e trabalho no Norte Fluminense},
+  year      = {2017},
+  volume    = {19},
+  pages     = {201--224},
+  journal   = {Cadernos Metr{\'o}pole},
+  publisher = {SciELO Brasil}
+}
+
+@InProceedings{Bruhn2003,
+  author       = {Bruhn, Carlos HL and Gomes, José Adilson T and Del Lucchese Jr, Cesar and Johann, Paulo RS},
+  title        = {Campos Basin: reservoir characterization and management-historical overview and future challenges},
+  booktitle    = {Offshore Technology Conference},
+  year         = {2003},
+  organization = {OTC},
+  pages        = {OTC--15220}
+}
+
+@InProceedings{Tigre1983,
+  author       = {Tigre, CA and Schaller, Hannfried A and Del Lucchese Jr, Cesar and Possato, Sergio A},
+  title        = {Pampo, Linguado, and Badejo Fields: their discoveries, appraisals, and early production systems},
+  booktitle    = {Offshore Technology Conference},
+  year         = {1983},
+  organization = {OTC},
+  pages        = {OTC--4627}
+}
+
+@Article{Mohriak1990,
+  author    = {Mohriak, WU and Mello, MR and Dewey, JF and Maxwell, JR},
+  title     = {Petroleum geology of the Campos Basin, offshore Brazil},
+  year      = {1990},
+  volume    = {50},
+  number    = {1},
+  pages     = {119--141},
+  journal   = {Geological Society, London, Special Publications},
+  publisher = {The Geological Society of London}
+}
+
+@TechReport{ANP2020a,
+  author      = {ANP},
+  title       = {RELATÓRIO DE INVESTIGAÇÃO DE INCIDENTE FPU P-53 (VAZAMENTO DE ÓLEO COM TOQUE NA COSTA)},
+  institution = {ANP},
+  year        = {2020},
+  url         = {"https://www.gov.br/anp/pt-br/assuntos/exploracao-e-producao-de-oleo-e-gas/seguranca-operacional/incidentes/relatorios-de-investigacao-de-incidentes-1/arquivos-relatorios-de-investigacao-de-incidentes/plataforma-p-53/relatorio-p-53_final.pdf"}
+}
+
+@Article{Tarr2016,
+  author    = {Tarr, Matthew A and Zito, Phoebe and Overton, Edward B and Olson, Gregory M and Adhikari, Puspa L and Reddy, Christopher M},
+  title     = {Weathering of oil spilled in the marine environment},
+  year      = {2016},
+  volume    = {29},
+  number    = {3},
+  pages     = {126--135},
+  journal   = {Oceanography},
+  publisher = {JSTOR}
+}
+
+@Book{EPA1999,
+  author    = {EPA},
+  title     = {Protocol for developing nutrient TMDLs},
+  year      = {1999},
+  publisher = {The Environmental Protection Agency}
+}
+
+@Online{ITOPF2022,
+  author = {ITOPF},
+  title  = {International Tanker Owners Pollution Federation Limited},
+  year   = {2022},
+  url    = {"http://www.itopf.com/"}
+}
+
+@Article{Patin2018,
+  author    = {Patin, Stanislav},
+  title     = {Offshore oil and gas production and transportation},
+  year      = {2018},
+  pages     = {149--164},
+  journal   = {Handbook on marine environment protection: Science, impacts and sustainable management},
+  publisher = {Springer}
+}
+
+@Article{Nicodem2001,
+  author    = {Nicodem, David E and Guedes, Carmen LB and Conceição, M and Fernandes, Z and Severino, Divinomar and Correa, Rodrigo J and Coutinho, Margareth Carvalho and Silva, Jaciara},
+  title     = {Photochemistry of petroleum},
+  year      = {2001},
+  volume    = {26},
+  number    = {2-3},
+  pages     = {219--238},
+  journal   = {Progress in Reaction Kinetics and Mechanism},
+  publisher = {SAGE Publications Sage UK: London, England}
+}
+
+@Article{Arey2007,
+  author    = {Arey, J Samuel and Nelson, Robert K and Reddy, Christopher M},
+  title     = {Disentangling oil weathering using GC$\times$ GC. 1. Chromatogram analysis},
+  year      = {2007},
+  volume    = {41},
+  number    = {16},
+  pages     = {5738--5746},
+  journal   = {Environmental science \& technology},
+  publisher = {ACS Publications}
+}
+
+@InProceedings{Gros2016,
+  author    = {Gros, Jonas and Socolofsky, SA and Dissanayake, AL and Jun, I and Boufadel, MC and Zhao, L and Nelson, RK and Reddy, CM and Arey, Jeremy Samuel},
+  title     = {Simulating the aqueous dissolution of petroleum emitted into the Gulf of Mexico during the 2010 Deepwater Horizon disaster},
+  booktitle = {Environmental Sciences: Water, Gordon Research Conference},
+  year      = {2016},
+  number    = {POST\_TALK}
+}
+
+@Misc{hazen2016marine,
+  author    = {Hazen, Terry C and Prince, Roger C and Mahmoudi, Nagissa},
+  title     = {Marine oil biodegradation},
+  year      = {2016},
+  publisher = {ACS Publications}
+}
+
+@Article{Bandara2011,
+  author    = {Bandara, Uditha C and Yapa, Poojitha D and Xie, Hao},
+  title     = {Fate and transport of oil in sediment laden marine waters},
+  year      = {2011},
+  volume    = {5},
+  number    = {3},
+  pages     = {145--156},
+  journal   = {Journal of Hydro-environment Research},
+  publisher = {Elsevier}
+}
+
+@Article{Adhikari2015,
+  author    = {Adhikari, Puspa L and White, John R and Maiti, Kanchan and Nguyen, Nhan},
+  title     = {Phosphorus speciation and sedimentary phosphorus release from the Gulf of Mexico sediments: implication for hypoxia},
+  year      = {2015},
+  volume    = {164},
+  pages     = {77--85},
+  journal   = {Estuarine, Coastal and Shelf Science},
+  publisher = {Elsevier}
+}
+
+@Book{Ferreira2022,
+  author    = {Ferreira, Nelson Jesuz and Cavalcanti, Iracema Fonseca},
+  title     = {Sistemas meteorológicos atuantes no Brasil},
+  year      = {2022},
+  publisher = {Oficina de Textos}
+}
+
+@Online{CPTEC2019,
+  author = {CPTEC},
+  title  = {Centro de Previsão de Tempo e Estudos Climáticos},
+  year   = {2019},
+  url    = {"https://satelite.cptec.inpe.br/acervo/goes16.formulario.logic"}
+}
+
+@InProceedings{SILVA2002,
+  author    = {SILVA, Justi and SILVA DIAS, MAF},
+  title     = {A frequência de fenômenos meteorológicos na América do Sul: uma climatologia},
+  booktitle = {Anais do XII Congresso Brasileiro de Meteorologia, Foz do Iguaçu},
+  year      = {2002},
+}
+
+@Article{Pezzi2016,
+  author    = {Pezzi, Luciano Ponzi and Souza, Ronald Buss de and Quadro, Mário FL},
+  title     = {Uma revisão dos processos de interação oceano-atmosfera em regiões de intenso gradiente termal do oceano atlântico sul baseada em dados observacionais},
+  year      = {2016},
+  volume    = {31},
+  pages     = {428--453},
+  journal   = {Revista Brasileira de Meteorologia},
+  publisher = {SciELO Brasil}
+}
+
+@InProceedings{Beegle-Krause2001,
+  author       = {Beegle-Krause, J},
+  title        = {General NOAA oil modeling environment (GNOME): a new spill trajectory model},
+  booktitle    = {International oil spill conference},
+  year         = {2001},
+  volume       = {2001},
+  number       = {2},
+  organization = {American Petroleum Institute},
+  pages        = {865--871}
+}
+
+@Article{Roversi2009,
+  author    = {Roversi, Fernando},
+  title     = {Modelagem matemática e simulação computacional de derrames de óleo em corpos d'água: um estudo de caso na região do Porto de Santos},
+  year      = {2009},
+  publisher = {Universidade Estadual Paulista (Unesp)}
+}
+
+@InProceedings{Bassey2017,
+  author       = {Bassey, Bassey O and Ajare, Tochukwu O and Ozurumba, Doris C and Baroni, AS},
+  title        = {Oil spill trajectory and fate forecasting, response and cleanup options for a coastal environment: a green field model offshore Indonesia},
+  booktitle    = {International Oil Spill Conference Proceedings},
+  year         = {2017},
+  volume       = {2017},
+  number       = {1},
+  organization = {International Oil Spill Conference},
+  pages        = {2017084}
+}
+
+@Article{Martins2001,
+  author  = {Martins, Renato P and ROSMAN, PC and Xavier, Andrea G and ROSSO, TC},
+  title   = {Estudo da maré astronômica na Baía de Guanabara--interpretação das constantes harmônicas e modelagem numérica},
+  year    = {2001},
+  journal = {XIV Simpósio Brasileiro de Recursos Hídricos, Aracaju, SE}
+}
+
+@Article{ASCE1996,
+  author    = {ASCE},
+  title     = {State-of-the-art review of modeling transport and fate of oil spills},
+  year      = {1996},
+  volume    = {122},
+  number    = {11},
+  pages     = {594--609},
+  journal   = {Journal of Hydraulic Engineering - Task Committee on Modeling of Oil Spills},
+  publisher = {American Society of Civil Engineers}
+}
+
+@Article{Spaulding2017,
+  author    = {Spaulding, Malcolm L},
+  title     = {State of the art review and future directions in oil spill modeling},
+  year      = {2017},
+  volume    = {115},
+  number    = {1-2},
+  pages     = {7--19},
+  journal   = {Marine pollution bulletin},
+  publisher = {Elsevier}
+}
+
+@Article{Cheng2011,
+  author    = {Cheng, Yongcun and Li, Xiaofeng and Xu, Qing and Garcia-Pineda, Oscar and Andersen, Ole Baltazar and Pichel, William G},
+  title     = {SAR observation and model tracking of an oil spill event in coastal waters},
+  year      = {2011},
+  volume    = {62},
+  number    = {2},
+  pages     = {350--363},
+  journal   = {Marine pollution bulletin},
+  publisher = {Elsevier}
+}
+
+@Article{Lehr2002,
+  author    = {Lehr, William and Jones, Robert and Evans, Mary and Simecek-Beatty, Debra and Overstreet, Roy},
+  title     = {Revisions of the ADIOS oil spill model},
+  year      = {2002},
+  volume    = {17},
+  number    = {2},
+  pages     = {189--197},
+  journal   = {Environmental Modelling \& Software},
+  publisher = {Elsevier}
+}
+
+@Online{NOOA2019,
+  author = {NOOA},
+  title  = {Map of the Month: Dispersant Use in or near US Waters},
+  year   = {2019},
+  url    = {"https://response.restoration.noaa.gov/map-month-dispersant-use-or-near-us-waters"}
+}
+
+@Article{Reed1999,
+  author    = {Reed, Mark and Johansen, {\O}istein and Brandvik, Per Johan and Daling, Per and Lewis, Alun and Fiocco, Robert and Mackay, Don and Prentki, Richard},
+  title     = {Oil spill modeling towards the close of the 20th century: overview of the state of the art},
+  year      = {1999},
+  volume    = {5},
+  number    = {1},
+  pages     = {3--16},
+  journal   = {Spill Science \& Technology Bulletin},
+  publisher = {Elsevier}
+}
+
+@Online{OSCAR2014,
+  author = {OSCAR},
+  title  = {SINTEF Materials and Chemestry - The OSCAR Model},
+  year   = {2014},
+  url    = {"https://www.sintef.no/globalassets/upload/materialer_kjemi/faktaark/environment/oscar-fact.pdf"}
+}
+
+@Thesis{Lima2017,
+  author      = {Bárbara Diniz Lima},
+  title       = {Caracterização da Alteração Molecular de Petróleos Brasileiros Expostos aos Efeitos Intempéricos},
+  type        = {Tese (Doutorado em Engenharia de Reservatório e de Exploração)},
+  institution = {UENF/LENEP},
+  year        = {2017}
+}
+
+@Article{Lima2021,
+  author    = {Lima, Bárbara D. and Martins, Laercio L and de Souza, Eliane S and Pudenzi, Marcos A and da Cruz, Georgiana F},
+  title     = {Monitoring chemical compositional changes of simulated spilled Brazilian oils under tropical climate conditions by multiple analytical techniques},
+  year      = {2021},
+  volume    = {164},
+  pages     = {111985},
+  journal   = {Marine Pollution Bulletin},
+  publisher = {Elsevier}
+}
+
+@Article{Lima2023,
+  author    = {Lima, Bárbara D and Martins, Laercio L and Pereira, Vin{\'\i}cius B and Franco, Danielle MM and Dos Santos, Ignes R and Santos, Jandyson M and Vaz, Boniek G and Azevedo, D{\'e}bora A and da Cruz, Georgiana F},
+  title     = {Weathering impacts on petroleum biomarker, aromatic, and polar compounds in the spilled oil at the northeast coast of Brazil over time},
+  year      = {2023},
+  volume    = {189},
+  pages     = {114744},
+  journal   = {Marine Pollution Bulletin},
+  publisher = {Elsevier},
+}
+
+@InCollection{Wang2016,
+  author    = {Wang, Zhendi and Yang, Chun and Yang, Zeyu and Brown, Carl E and Hollebone, Bruce P and Stout, Scott A},
+  title     = {Petroleum biomarker fingerprinting for oil spill characterization and source identification},
+  booktitle = {Standard handbook oil spill environmental forensics},
+  year      = {2016},
+  publisher = {Elsevier},
+  pages     = {131--254}
+}
+
+@Article{Barakat2001,
+  author    = {Barakat, Assem O and Qian, Yaorong and Kim, Moonkoo and Kennicutt II, Mahlon C},
+  title     = {Chemical characterization of naturally weathered oil residues in arid terrestrial environment in Al-Alamein, Egypt},
+  year      = {2001},
+  volume    = {27},
+  number    = {4},
+  pages     = {291--310},
+  journal   = {Environment International},
+  publisher = {Elsevier}
+}
+
+@Article{Cen2012,
+  author    = {Cen, Hui and Morina, Ardian and Neville, Anne and Pasaribu, Rihard and Nedelcu, Ileana},
+  title     = {Effect of water on ZDDP anti-wear performance and related tribochemistry in lubricated steel/steel pure sliding contacts},
+  year      = {2012},
+  volume    = {56},
+  pages     = {47--57},
+  journal   = {Tribology International},
+  publisher = {Elsevier}
+}
+
+@Article{Azevedo2022,
+  author    = {Azevedo, Rufino NA and Bezerra, Kamylla MM and Nascimento, Ronaldo F and Nelson, Robert K and Reddy, Christopher M and Nascimento, Adriana P and Oliveira, André HB and Martins, Laercio L and Cavalcante, Rivelino M},
+  title     = {Is there a similarity between the 2019 and 2022 oil spills that occurred on the coast of Ceará (Northeast Brazil)? An analysis based on forensic environmental geochemistry},
+  year      = {2022},
+  volume    = {314},
+  pages     = {120283},
+  journal   = {Environmental Pollution},
+  publisher = {Elsevier}
+}
+
+@Article{Wang2001,
+  author    = {Wang, Zhendi and Fingas, Merv and Sigouin, Lise},
+  title     = {Characterization and identification of a ''mystery'' oil spill from Quebec (1999)},
+  year      = {2001},
+  volume    = {909},
+  number    = {2},
+  pages     = {155--169},
+  journal   = {Journal of Chromatography A},
+  publisher = {Elsevier}
+}
+
+@Article{Jia2010,
+  author       = {Wanglu Jia and Zhongyao Xiao and Chiling Yu},
+  title        = {Molecular and isotopic compositions of bitumens in Silurian tar sands from the Tarim Basin, NW China: characterizing biodegradation and hydrocarbon charging in an old composite basin},
+  journaltitle = {Marine and Petroleum Geology},
+  year         = {2010}
+}
+
+@Article{Munoz1997,
+  author       = {David Munoz and Michel Giuliano and Pierre Doumenq and Frédéric Jacquout and Pierre Scherreri and Gilbert Mille},
+  title        = {Long Term Evolution of Petroleum Biomarkers in Mangrove soil (Guadeloupe)},
+  journaltitle = {Marine Pollution Bulletin, Vol. 34, No. 11, pp. 868-874},
+  year         = {1997}
+}
+
+@Article{Esquinas2017,
+  author    = {Esquinas, Noemi and Rodriguez-Valdes, Eduardo and Marquez, Gonzalo and Gallego, Jose Luis R},
+  title     = {Diagnostic ratios for the rapid evaluation of natural attenuation of heavy fuel oil pollution along shores},
+  year      = {2017},
+  volume    = {184},
+  pages     = {1089--1098},
+  journal   = {Chemosphere},
+  publisher = {Elsevier}
+}
+
+
+@Misc{Rosman2016,
+  author = {Paulo Cesar Rosman},
+  title  = {Sistema base de hidrodinâmica ambiental. Referência Técnica. Universidade Federal do Rio de Janeiro, Rio de Janeiro},
+  year   = {2016},
+  url    = {"https://www.sisbahia.coppe.ufrj.br/SisBaHiA_RefTec_v11b.pdf"}
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

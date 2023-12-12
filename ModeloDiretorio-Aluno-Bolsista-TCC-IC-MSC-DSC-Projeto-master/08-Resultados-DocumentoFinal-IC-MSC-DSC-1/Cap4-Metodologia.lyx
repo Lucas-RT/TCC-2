@@ -1,0 +1,715 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass abnt
+\begin_preamble
+\usepackage {graphicx}
+\usepackage {longtable}
+
+\usepackage {indentfirst}
+\renewenvironment{center}{\par\centering}{\par}
+\end_preamble
+\use_default_options false
+\master Monografia-Dissertacao-Tese-master.lyx
+\maintain_unincluded_children false
+\language brazilian
+\language_package default
+\inputencoding iso8859-1
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement p
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Índice
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 210mm
+\paperheight 297mm
+\leftmargin 30mm
+\topmargin 25mm
+\rightmargin 20mm
+\bottommargin 20mm
+\secnumdepth 2
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Metodologia
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Metodologia
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "chap:Metodologia"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead{
+\backslash
+thechapter-Metodologia} 
+\backslash
+rhead{
+\backslash
+thepage} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Apresenta-se neste capítulo a metodologia científica a ser utilizada no
+ desenvolvimento deste trabalho.
+ Inclui-se informações sobre a classificação da pesquisa (área da pesquisa),
+ intrumentos utilizados (materiais e equipamentos), amostras, experimentos,
+ formas de análise e interpretação.
+\end_layout
+
+\begin_layout Section
+Coleta e limpeza das amostras de óleo derramado - 
+\emph on
+Tarballs
+\emph default
+
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Coleta das Amostras
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Coleta-e-Limpeza"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Seis amostras de 
+\emph on
+tarballs
+\emph default
+ foram coletadas na Região dos Lagos, RJ no dia 3 de abril de 2019, sendo
+ três amostras coletadas da Praia Brava, Armação dos Búzios e três amostras
+ da Prainha, Arraial do Cabo (Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Amostras-de-tarballs"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/amostraspraia.JPG
+	lyxscale 65
+	scale 65
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+a) e b) Amostras de 
+\emph on
+tarballs
+\emph default
+ identificadas na praia de Praia Brava, Armação dos Búzios.
+ c) Amostras de tarballs identificadas na praia de Prainha, Arraial do Cabo
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Amostras-de-tarballs"
+
+\end_inset
+
+Fonte: Autor
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As amostras foram acondicionadas em papel alumínio e encaminhadas ao laboratório
+ de geoquímica do LENEP/UENF para serem analisadas.
+ As três amostras de Armação dos Búzios foram nomeadas como AB-1, AB-2,
+ AB-3 e as três amostras de Arraial do Cabo, nomeadas como AC-1, AC-2, AC-3,
+ conforme Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:amostras"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/amostras_ab_ac.JPG
+	lyxscale 55
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+a) Amostras AB-1, AB-2 e AB-3 de 
+\emph on
+tarballs
+\emph default
+ coletadas na Praia Brava (Armação dos Búzios, RJ).
+ b) Amostras AC-1, AC-2 e AC-3 de 
+\emph on
+tarballs
+\emph default
+ coletadas na Prainha (Arraial do Cabo, RJ).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:amostras"
+
+\end_inset
+
+ Fonte: Autor
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Ao chegarem ao laboratório as amostras foram separadas da areia e de outros
+ detritos através da solubilização do óleo intemperizado em um béquer com
+ aproximadamente 50 mL de diclorometano até a dissolução completa do óleo
+ e, em seguida, foi adicionado sulfato de sódio anidro (
+\begin_inset Formula $Na_{2}SO_{4}$
+\end_inset
+
+) para remover a água ainda presente nas amostras.
+ Essa solução foi filtrada, transferida para outro béquer previamente pesado
+ e o solvente foi evaporado, após a evaporação completa do solvente, as
+ amostras foram pesadas e armazenadas em frascos âmbar na geladeira para
+ posteriores análises cromatográficas.
+\end_layout
+
+\begin_layout Standard
+Na Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Fluxograma"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, encontra-se o fluxograma analítico contendo as etapas de preparação das
+ amostras e as análises cromatográficas utilizadas para a caracterização
+ geoquímica das amostras de 
+\emph on
+tarballs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename imagens/Fluxograma.JPG
+	lyxscale 75
+	scale 75
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fluxograma das etapas do trabalho.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Fluxograma"
+
+\end_inset
+
+Fonte: Autor
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Análise de 
+\emph on
+n
+\emph default
+-alcanos e Isoprenóides por Cro\SpecialChar softhyphen
+ma\SpecialChar softhyphen
+to\SpecialChar softhyphen
+gra\SpecialChar softhyphen
+fia em Fase Gasosa com Detector de
+ Ionização Chama (CG/DIC)
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cromatografia Gasosa (CG/DIC)
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Análise de n-alcanos e Isoprenóides"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A análise de óleo derramado para obtenção do conteúdo de 
+\emph on
+n
+\emph default
+-alcanos e isoprenóides das amostras coletadas foi realizada utilizando
+ um cromatógrafo de fase gasosa da 
+\emph on
+Agilent Technologies (6890N)
+\emph default
+ com detector de ionização chama (CG-DIC), auto injetor 
+\emph on
+G4513A
+\emph default
+ e coluna capilar (30,0 m x 320 µm x 0,25 µm) de sílica fundida HP-5 (5%
+ fenil – 95 % metilsiloxano), utilizando ar sintético e 
+\begin_inset Formula $H_{2}$
+\end_inset
+
+ como gases de chama, e 
+\begin_inset Formula $N_{2}$
+\end_inset
+
+ como gás de 
+\emph on
+make up
+\emph default
+.
+ O gás de arraste utilizado foi o Hélio com fluxo constante de 2 mL.min-¹,
+ com injeção 
+\emph on
+splitless
+\emph default
+.
+ A temperatura do injetor e do detector foram mantidas a 290°C e 320°C,
+ respectivamente.
+ A programação de temperatura adotada para a coluna cromatográfica foi de
+ 40°C a 310°C a uma taxa 6°C.min-¹, permanecendo na temperatura final por
+ 19 min.
+ Foi injetado 1 µL da amostra diluída em diclorometano na concentração de
+ 0,01 mg.µL-¹ e utilizado como padrão interno o α-androstano na concentração
+ de 0,02 mg.mL-¹.
+ Todos os dados foram processados pelo 
+\emph on
+software
+\emph default
+ 
+\emph on
+MSD Chemstation
+\emph default
+ do equipamento.
+ 
+\end_layout
+
+\begin_layout Standard
+A partir desta análise, foi calculada a média e o desvio padrão para as
+ amostras de Arraial do Cabo (AC-1, AC-2 e AC-3) e Armação dos Búzios (AB-1,
+ AB-2, e AB-3) a partir de suas respectivas concentrações de modo a traçar
+ os gráficos de 
+\emph on
+n
+\emph default
+-alcanos e isoprenóides e o gráfico contendo a razão Pristano/Fitano e o
+ índice de intemperismo.
+\end_layout
+
+\begin_layout Section
+Separação das Frações de Compostos Saturados, Aromáticos e Polares por Cromatogr
+afia Líquida
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cromatografia Líquida
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Hipoteses"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cerca de 40 mg das amostras de óleo derramado foram submetidas à cromatografia
+ líquida de coluna aberta, utilizando como fase estacionária sílica gel
+ previamente ativada.
+ Para a separação das frações de saturados, aromáticos, e compostos polares
+ (NSO) foram utilizados solventes de grau cromatográfico da 
+\emph on
+Sigma-Aldrich
+\emph default
+ (Brasil).
+ A fração dos hidrocarbonetos saturados foi obtida a partir da eluição com
+ 30 mL de 
+\emph on
+n
+\emph default
+-hexano, os hidrocarbonetos aromáticos com 30 mL da mistura 
+\emph on
+n
+\emph default
+-hexano:diclorometano (8:2 v/v) e os compostos polares foram obtidos por
+ diferença das demais frações.
+ Cada fração foi recolhida em frasco âmbar previamente pesado, o solvente
+ foi evaporado e, posteriormente, tiveram suas massas registradas.
+\end_layout
+
+\begin_layout Section
+Análise Geoquímica dos Compostos Biomarcadores Saturados do Petróleo por
+ Cromatografia em Fase Gasosa Acoplada à Espectrometria de Massas 
+\begin_inset Newline newline
+\end_inset
+
+(CG/EM)
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Cromatografia Gasosa (CG/EM)
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Análise Geoquímica de Biomarcadores"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As frações de compostos saturados das amostras coletadas foram submetidas
+ a análise por CG/EM para avaliação dos biomarcadores saturados do petróleo.
+ As análise foram realizadas em um cromatógrafo em fase gasosa 
+\emph on
+Agilent Technologies 6890N
+\emph default
+, equipado com uma coluna DB-5 MS (30 m x 0,25 mm x 0,25 µm de espessura
+ do filme), acoplado a um detector seletivo de massas 
+\emph on
+Agilent 5973 MSD
+\emph default
+.
+ A programação de temperatura utilizada na análise dos hidrocarbonetos saturados
+ foi inicialmente de 60°C por 2 min, seguida por aquecimento a uma taxa
+ de 22°C.min-¹ até 200°C, mantida a esta temperatura por 3 min e, por fim,
+ aquecida até 300°C a uma taxa de 3°C.min-¹, esta temperatura final mantida
+ por 25 minutos.
+ O gás de arraste utilizado foi o Hélio com fluxo constante de 1 mL.min-¹
+ e a temperatura do injetor e da linha de transferência foi de 300°C e 280°C,
+ respectivamente.
+ O espectrômetro de massas foi operado com energia de ionização de 70 eV
+ e temperatura da fonte de íons de 230°C.
+ A injeção foi realizada no modo 
+\emph on
+splitless
+\emph default
+, com o volume de injeção de 1 µL da fração de saturados a uma concentração
+ de 0,02 mg.µL-¹.
+ Utilizou-se o monitoramento seletivo de íons (SIM, do inglês 
+\emph on
+Single Ion Monitoring
+\emph default
+) como modo de análise para os compostos das famílias dos terpanos tricíclicos
+ e pentacíclico (m/z 191) e esteranos (m/z 217).
+ Todos os dados foram processados pelo 
+\emph on
+software
+\emph default
+ 
+\emph on
+MSD Chemstation 
+\emph default
+do equipamento.
+ 
+\end_layout
+
+\begin_layout Standard
+A partir desta análise, foi calculada a média e o desvio padrão para as
+ amostras de Arraial do Cabo (AC-1, AC-2 e AC-3) e Armação dos Búzios (AB-1,
+ AB-2, e AB-3) para traçar os gráficos das razões diagnósticas de biomarcadores
+ saturados.
+\end_layout
+
+\begin_layout Section
+Levantamento de Dados Meteorológicos 
+\begin_inset Index idx
+status open
+
+\begin_layout Plain Layout
+Dados Meteorológicos
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Levantamento-de-Dados"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As imagens de satélite e dados meteorológicos utilizados neste trabalho
+ foram retirados do site oficial do Centro de Previsão de Tempo e Estudos
+ Climáticos (CPTEC) e do Instituto Nacional de Meteorologia (INMET).
+ Ao acessar o site 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://satelite.cptec.inpe.br/acervo/goes16.formulario.logic
+\end_layout
+
+\end_inset
+
+, é possível selecionar a data de interesse, o canal de imagem do satélite
+ com sua respectiva banda espectral e em seguida, selecionar a hora que
+ se deseja observar.
+ 
+\end_layout
+
+\begin_layout Standard
+Para este trabalho, foram selecionados os dias 24 e 25 de março de 2019,
+ para registro das imagens do satélite pois foi o momento em que a Tempestade
+ Tropical Iba teve seu pico de intensidade 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "JEANDOS2019,SMM2019"
+literal "true"
+
+\end_inset
+
+.
+ Foi utilizado o canal 13 com 10,35 µm de banda espectral e selecionados
+ 3 horários em cada dia como forma de comparação para posteriormente, escolher
+ a imagem mais adequada e que melhor registrasse a tempestade.
+ Por fim, as imagens escolhidas para retratar o fenômeno e que foram utilizadas
+ durante o trabalho, mostram a Tempestade Tropical Iba no dia 24 de março
+ de 2019 às 12h45min e no dia 25 de março de 2019 às 04h15min.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Iba 1245"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+)
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+(Figura 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Imagem-de-satélite"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
